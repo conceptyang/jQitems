@@ -1,0 +1,68 @@
+//$(".cla").hover(function(){
+//	$(".petClass").css("display","block");
+//},function(){
+//	$(".petClass").css("display","none")
+//})
+$("#head").hover(function(){
+	$(".petClass").css("display","block");
+},function(){
+	$(".petClass").css("display","none")
+})
+$(".onav-cont").hover(function(){
+	$(this).children("ul").css("display","block");
+},function(){
+	$(this).children("ul").css("display","none");
+})
+$(".onav-cont li").hover(function(){
+	$(this).css("background","#ddd");
+},function(){
+	$(this).css("background","#fff");
+})
+
+//左侧放大镜效果开始
+$(".litimg").hover(function(){
+	$("#shank,.big,#bgimg").css("display","block");	
+	$(".big").css("z-index",10)
+},function(){
+	$("#shank,#bgimg").css("display","none");
+	$(".big").css("z-index",-1)
+})
+$("#litimglist li").mouseover(function(){
+	var str1 = $(this).children(Image).attr("src");
+	$("#little,#bgimg1").attr("src",str1);
+	
+})
+$(".litimg").mousemove( function( ev ){
+		ev = ev || event;
+		var bL = $(".litimg").offset().left;
+		var bT = $(".litimg").offset().top;
+		var sW = $("#shank").width();
+		var sH = $("#shank").height();
+		var x = ev.pageX - bL - sW/2;
+		var y = ev.pageY - bT - sH/2;
+		var sX = $("#little").width() - sW;
+		var sY =$("#little").height() - sH;
+		if( x < 0 ){
+			x = 0;
+		}else if( x > sX ){
+			x = sX;
+		};
+		if( y < 0 ){
+			y = 0;
+		}else if( y > sY ){
+			y = sY;
+		};
+		
+		$("#shank").css({"left":x+"px","top":y+"px"});
+		var preX =  x / sX;
+		var preY = y / sY;
+		var a = -preX*( $("#bgimg1").width() - $("#bgimg").width () );
+		var b =-preY*( $("#bgimg1").height() - $("#bgimg").height());
+		$("#bgimg1").css({"left": a+ 'px',"top":b+'px'});
+	}
+)
+//左侧放大镜效果结束
+
+//三级联动效果
+
+

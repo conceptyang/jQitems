@@ -1,0 +1,90 @@
+$("#content").load("content.html",function(){
+	$(".bannerbox ul li").hover(function(){
+		var index = $(this).index();
+		$(this).css({"background":"#fff","color":"#999"});
+		$(".bannerbox div").css("display","none");
+		$(".bannerbox div").eq(index).css("display","block");
+	},
+	function(){
+		var index = $(this).index();
+		$(this).css({"background":"#999","color":"#fff"});
+	});
+	var bTimers = null;
+	var num = 0;
+	timer();
+	
+	$(".bannerbox").hover(function(){
+		clearInterval(bTimers);
+	},function(){
+		timer();
+	})
+	function timer(){
+		bTimers = setInterval(function(){
+		var $div = $(".bannerbox div").index();
+		num++;
+		$(".bannerbox ul li").css({"background":"#999","color":"#fff"})
+		$(".bannerbox div").css("display","none");
+		if(num>6){
+			num=0;
+		}
+		var cl=$(".bannerbox div").eq(num).attr("bgc")
+		$(".bannerbox").css('background',cl);
+		$(".cla").css('background',cl);
+		$(".bannerbox div").eq(num).css("display","block")
+		$(".bannerbox ul li").eq(num).css({"background":"#fff","color":"#999"})
+		},3000);
+	}
+	$(".banner-right div img").hover(function(){
+		$(this).stop().animate({"margin-left":"-10px"},500)
+	},function(){
+		$(this).stop().animate({"margin-left":"0"},500)
+	})
+	var str='';
+	$.ajax({
+		type:"get",
+		url:"rushbuy.json",
+		async:true,
+		success:function(data){
+			for(var i = 0;i<data.length;i++){
+				str += "<div class='qG1'><div class='qg-top'><div class='qgpic'><img src="+data[i].src+"/></div><p class='qgbq'><span>"+data[i].bq1+"</span><span>"+data[i].bq2+"</span></p><div class='qgms'>"+data[i].qgms+"</div>"
+				str += "<div class='qgjg'><b>￥</b><span class='nowjg'>"+data[i].nowjg+"</span><span class='overjg'>"+data[i].overjg+"</span></div><div class='jgborder'></div>"
+				str += "</div><div class='qg-bot'><a href='javascript:;' class='qgstate'>立即抢购</a></div></div>"
+			}
+			str +="<a class='left' href='javascript:;'>&lt;</a><a class='right'  href='javascript:;'>&gt;</a>";
+			$(".jxr-bottom").html(str);
+			$(".jxr-bottom").hover(function(){
+				$(".jxr-bottom .right,.left").css("display","block");
+			},function(){
+				$(".jxr-bottom .right,.left").css("display","none");
+			})
+			var num = 0;
+			$(".jxr-bottom .right").on("click",function(){
+				if(data.length-num >=5){
+					$(".qG1").eq(num).css({"display":"none"})
+					$(".qG1").eq(num+4).css({"display":"block"})
+					num++;
+				}
+				if(num>=data.length-1){
+					num=data.length-1;
+				}
+			})
+			$(".jxr-bottom .left").on("click",function(){
+				if(num>=data.length-1){
+					num=data.length-1;
+				}
+				num--;
+				if(num<0){
+					num=0;
+				}
+				if(num==data.length-1){
+					$(".qG1").eq(num).css({"display":"none"})
+					$(".qG1").eq(num-4).css({"display":"block"})
+				}else{
+					$(".qG1").eq(num-4).css({"display":"none"})
+					$(".qG1").eq(num).css({"display":"block"})
+				}
+			})
+		}
+	});
+	
+})

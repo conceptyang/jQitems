@@ -1,0 +1,495 @@
+<div class="h_banner">
+	<div class="bannerbox">
+
+		<div class="bannerf" bgc="#8d02de" style="display: block;">
+			<a class="banner1" href="javascript:;">
+				<img src="img/1.jpg" />
+			</a>
+		</div>
+		<div class="banner" bgc="#FF4D4B">
+			<a class="banner2" href="javascript:;">
+				<img src="img/2.jpg" />
+			</a>
+		</div>
+		<div class="banner" bgc="#8d02de">
+			<a class="banner3" href="javascript:;">
+				<img src="img/3.jpg" />
+			</a>
+		</div>
+		<div class="banner" bgc="#8d02de">
+			<a class="banner4" href="javascript:;">
+				<img src="img/4.jpg" />
+			</a>
+		</div>
+		<div class="banner" bgc="#8d02de">
+			<a class="banner5" href="javascript:;">
+				<img src="img/5.jpg" />
+			</a>
+		</div>
+		<div class="banner" bgc="#8d02de">
+			<a class="banner6" href="javascript:;">
+				<img src="img/6.jpg" />
+			</a>
+		</div>
+		<div class="banner" bgc="#8d02de">
+			<a class="banner7" href="javascript:;">
+				<img src="img/7.jpg" />
+			</a>
+		</div>
+		<ul>
+			<li>1</li>
+			<li>2</li>
+			<li>3</li>
+			<li>4</li>
+			<li>5</li>
+			<li>6</li>
+			<li>7</li>
+		</ul>
+	</div>
+	<div class="banner-rightbox">
+		<!--<div class="Center">-->
+		<div class="banner-right">
+			<div class="br">
+				<a href="javascropt:;"><img src='img/tianhengbao.jpg' /></a>
+			</div>
+			<div class="br">
+				<a href="javascropt:;"><img src='img/biruiji.jpg' /></a>
+			</div>
+			<div>
+				<a href="javascropt:;"><img src='img/wanpilingshi.jpg' /></a>
+			</div>
+		</div>
+		<!--</div>-->
+	</div>
+</div>
+<div class="Center">
+	<div class="jingxi">
+		<div class="jingxi-left">
+			<div class="jingxi-box">
+				<div class="left-top">
+					<img src="img/surprise-tit.png" />
+				</div>
+				<div class="left-middle">
+					距本场结束还有
+				</div>
+				<div class="timelast">
+					<div class="time1">
+						<span id="times0">
+								<span class="time1-1">
+									<i>0</i><i>0</i>
+								</span>
+						<span class="time-zi" style="color: #fff;">:</span>
+						<span class="time1-1">
+									<i>5</i><i>4</i>
+								</span>
+						<span class="time-zi" style="color: #fff;">:</span>
+						<span class="time1-1">
+									<i>5</i><i>8</i>
+								</span>
+						</span>
+						<span id="t0" style="display: none;" name="1">2016-11-07 19:00:00</span>
+					</div>
+				</div>
+				<div class="thistime">
+					15:00
+					<span class="chang"></span>
+				</div>
+				<div class="left-bot">
+					进行中...
+				</div>
+			</div>
+
+		</div>
+		<div class="jingxi-right">
+			<div class="jxr-top">
+				<div class="watch">
+					<p>09:00</p>
+					<p>已结束</p>
+					<span></span>
+				</div>
+				<div class="watch">
+					<p>11:00</p>
+					<p>已结束</p>
+					<span></span>
+				</div>
+				<div class="watch">
+					<p>13:00</p>
+					<p>已结束</p>
+					<span></span>
+				</div>
+				<div class="watch">
+					<p>15:00</p>
+					<p>已结束</p>
+					<span></span>
+				</div>
+				<div class="watch">
+					<p>19:00</p>
+					<p>已结束</p>
+					<span></span>
+				</div>
+				<div class="watch">
+					<p>21:00</p>
+					<p>已结束</p>
+					<span></span>
+				</div>
+				<div class="watch">
+					<p>明日</p>
+					<p>预告</p>
+					<span></span>
+				</div>
+			</div>
+			<div class="jxr-bottom">
+				<div class="ov">
+					<!--<div class="pros09:00"></div>
+					<div class="pros11:00"></div>
+					<div class="pros13:00"></div>
+					<div class="pros15:00"></div>
+					<div class="pros19:00"></div>
+					<div class="pros21:00"></div>
+					<div class="prostomorrow"></div>-->
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="xpcx">
+		<div class="xpcx_left">
+			<img src="img/ad-img1.jpg">
+			<div class="absolute-bg" style="background:#ed499b;filter: alpha(opacity=80); opacity: 0.8;-moz-opacity: 0.8;"></div>
+			<div class="absolute-box">
+				<div class="box-xp">新品尝鲜</div>
+				<div class="ftc ft12 cfff">
+					<a  href="http://www.epet.com/new" style="color: white"> 上架新品976件&gt;&gt;</a>
+				</div>
+				<div class="ftc mt5"><img src="img/fgline.png"></div>
+				<div class="ftc cfff mt5">毛****比 第329个尝鲜的人，获得商品折扣 </div>
+				<div class="ftc cfff"><span class="ft20">9.1</span>折</div>
+				<div class="ftc">
+					<a  href="http://www.epet.com/new">进入尝鲜栏目&gt;&gt;</a>
+				</div>
+			</div>
+		</div>
+		<div class="xpcx_right">
+			<ul class="clearfix">
+				<a title="K9 顶级大厨 天然烤鹿肺狗零食200g"  href="http://www.epet.com/new">
+					<li class="fl">
+						<div class="font-intro">
+							<h1 class="ft14 c333">K9 顶级大厨 天然烤鹿肺狗零食200g</h1>
+							<p title="天然烘烤，香醇口感，优质蛋白，吃出健康。" class="c999 ft12">天然烘烤，香醇口感，优质蛋白，吃出健康。</p>
+							<div style="color: #f60;" class="mt ft14 ">¥25.00</div>
+							<div class="reason mt20 overflow">
+								<p class="mt5">低脂肪无添加</p>
+								<p class="mt5">天然肉质香醇可口</p>
+							</div>
+						</div>
+						<div class="new-proimg rela">
+							<div class="new-img"><img src="img/dizhi.jpg"></div>
+						</div>
+					</li>
+				</a>
+				<a title="法国进口FoOlee Easee系列 中型犬自动脱毛梳子 紫色 梳面宽65mm"  href="http://www.epet.com/new">
+					<li class="fl">
+						<div class="font-intro">
+							<h1 class="ft14 c333">法国进口FoOlee Easee系列 中型犬自动脱毛梳子 紫色 梳面宽65mm</h1>
+							<p title="是时候换梳毛姿势啦！法国FoOlee自动脱毛梳，轻松去除脱毛、掉毛，从未有过的梳理体验。用一次，让你远离“毛”困扰。" class="c999 ft12">是时候换梳毛姿势啦！法国FoOlee自动脱毛梳，轻松去除脱毛、掉毛，从未有过的梳理体验。用一次，让你远离“毛”困扰。
+							</p>
+							<div style="color: #f60;" class="mt ft14">¥183.00</div>
+							<div class="reason mt20 overflow">
+								<p class="mt5">自动梳理新体验</p>
+								<p class="mt5">轻松去死毛掉毛</p>
+							</div>
+						</div>
+						<div class="new-proimg rela">
+							<div class="new-img"><img src="img/dizhi.jpg"></div>
+						</div>
+					</li>
+				</a>
+				<a title="乐宝LeBo 肠乐康益生菌 12袋/盒"  href="http://www.epet.com/new">
+					<li class="fl">
+						<div class="font-intro">
+							<h1 class="ft14 c333">乐宝LeBo 肠乐康益生菌 12袋/盒</h1>
+							<p title="" class="ft12"></p>
+							<div style="color: #f60;" class="mt ft14 cred">¥80.00</div>
+							<div class="reason mt20 overflow">
+								<p class="mt5">快速改善肠道不适</p>
+								<p class="mt5">提升活力激活免疫</p>
+							</div>
+						</div>
+						<div class="new-proimg rela">
+							<div class="new-img"><img src="img/dizhi.jpg"></div>
+						</div>
+					</li>
+				</a>
+			</ul>
+		</div>
+	</div>
+	<!--品牌街开始-->
+	<div class="ppj">
+		<div class="ppj-left">
+			<a  href="javascript:;">
+				<img src="img/ad-img2.jpg">
+			</a>
+			<div class="brands">
+				<!--轮播开始-->
+				<div class="ppj-lb">
+					<ul class="ppj-lb-t">
+						<li class="lb-active"><img src="img/ppjlb1.jpg" /></li>
+						<li><img src="img/ppjlb2.jpg" /></li>
+						<li><img src="img/ppjlb3.jpg" /></li>
+						<li><img src="img/ppjlb4.jpg" /></li>
+					</ul>
+					<ul class="ppj-lb-b">
+						<li></li>
+						<li></li>
+						<li></li>
+						<li></li>
+					</ul>
+				</div>
+				<!--轮播结束-->
+			</div>
+		</div>
+		<!--品牌街中部开始-->
+		<div class="ppj-mid">
+			<ul class="clearfix">
+				<li>
+					<a  href="javascript:;"><img src="img/brand_log.jpg" /></a>
+					<p class="cfff"><span class="cred">5</span>个试用商品 </p>
+				</li>
+				<li>
+					<a  href="javascript:;"><img src="img/brand_log1.jpg" /></a>
+				</li>
+				<li>
+					<a  href="javascript:;"><img src="img/brand_log2.jpg" /></a>
+					<p class="cfff"><span class="cred">4</span>个试用商品 <span class="cred">3</span>个优惠</p>
+				</li>
+				<li>
+					<a  href="javascript:;"><img src="img/brand_log3.jpg" /></a>
+					<p class="cfff"><span class="cred">2</span>个试用商品 <span class="cred">3</span>个优惠</p>
+				</li>
+				<li>
+					<a  href="javascript:;"><img src="img/brand_log4.jpg" /></a>
+				</li>
+				<li>
+					<a  href="javascript:;"><img src="img/brand_log5.jpg" /></a>
+					<p class="cfff"><span class="cred">3</span>个试用商品 </p>
+				</li>
+				<li>
+					<a  href="javascript:;"><img src="img/brand_log6.jpg" /></a>
+					<p class="cfff"><span class="cred">2</span>个试用商品 </p>
+				</li>
+				<li>
+					<a  href="javascript:;"><img src="img/brand_log7.jpg" /></a>
+					<p class="cfff"><span class="cred">3</span>个试用商品 <span class="cred">3</span>个优惠</p>
+				</li>
+				<li>
+					<a  href="javascript:;"><img src="img/brand_log8.jpg" /></a>
+					<p class="cfff"><span class="cred">3</span>个试用商品 </p>
+				</li>
+				<li>
+					<a  href="javascript:;"><img src="img/brand_log9.jpg" /></a>
+					<p class="cfff"><span class="cred">2</span>个试用商品 </p>
+				</li>
+				<li>
+					<a  href="javascript:;"><img src="img/brand_log10.png" /></a>
+				</li>
+				<li>
+					<a  href="javascript:;"><img src="img/brand_log11.jpg" /></a>
+					<p class="cfff"><span class="cred">2</span>个试用商品 </p>
+				</li>
+			</ul>
+		</div>
+		<!--品牌街中部结束-->
+		<!--品牌街右部开始-->
+		<div class="ppj-right">
+			<div class="ppj-right-top">
+				<i></i>
+				<h1>免费试用</h1>
+			</div>
+			<div class="ppj-right-bot">
+				<div class="bot-top">
+					<a  href="javascript:;">
+						<div class="textR">还有<span style="color: #F60;;">121</span>个免费试用&gt;&gt;</div>
+					</a>
+					<div class="free-proimg">
+						<img src="img/forimg.jpg">
+					</div>
+					<div class="c999 ft30 ftc" style="height:40px;">
+						<div style="display: inline-block;">
+							<span class="through ft30 fl">¥269.00</span>
+							<i class="cfff fl ml mt">免费</i>
+						</div>
+					</div>
+					<h2>佰芙 小型成犬三文鱼无谷粮 3kg</h2>
+
+					<div class="mt20 ftc">
+						<a  href="javascript:;" class="i-apply"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--品牌街右部结束-->
+	</div>
+	<!--楼层开始-->
+	<!--一楼开始-->
+	
+<div class="floor1">
+</div>
+<script id="prodList" type="text/html">
+	<!--{{include "con_one_21" list}}-->
+	{{each lists as value i}}
+	<div class="epetfoodblock">
+		<div class="epetfood-tit"><i class="index-ico"></i>{{value.title}}</div>
+		<div class="floormain">
+			<div class="fl floorleft">
+				<a href="javascript:;" ><img alt="狂欢节-主粮" src="{{value.leftimg}}"></a>
+				<div class="floorleft-bot">
+					<div class="floorleft-bot-t">
+						<span class="fl">——————————————————</span>
+						<i class="fl"></i>
+						<b class="fl c666 ft14 mt5">最热HOT</b>
+						<span class="fl">——————————————————</span>
+					</div>
+					<ul class="floorleft-bot-b mt">
+						{{each value.leftbq as value i}}
+						<li class="fl ftc">
+							<a href="javascript:;">{{value}}</a>
+						</li>
+						{{/each}}
+					</ul>
+				</div>
+			</div>
+			<div class="floorright">
+				<div class="righttitle">
+					<ul class="ftc">
+						{{each value.righttitle as value i}}
+						<li class="fl lina">
+							<div class="border-t"><span>{{value}}</span></div>
+						</li>
+						{{/each}}
+					</ul>
+				</div>
+				<div class="rightconbox">
+					<div id="con_one_1">
+						<!--热门内容 BEGIN-->
+						<div class="imgbox">
+							<div class="imgbox-top">
+								<div class="top_left fl border-r">
+									<a  href="javascript:;">
+										<div class="ad-font">
+											<p class=" ft16">E宠学堂</p>
+											<p class=" ft14 cf40 mt5">如何挑选优质的狗粮？</p>
+										</div>
+										<img src="img/Echongxuetang.jpg"></a>
+								</div>
+								<div class="top_right">
+									<div class="border-r bigimg2 rela">
+										<a  href="javascript:;">
+											<div class="ad-font">
+												<p class=" ft16 c000">WDJ五星级无谷粮</p>
+												<p class=" ft14 cf40 mt5">15年致力无谷粮巅峰</p>
+											</div>
+											<img src="img/wdj.jpg">
+										</a>
+									</div>
+									<div class="border-r bigimg2 rela">
+										<a  href="javascript:;">
+											<div class="ad-font">
+												<p class=" ft16 c000">国产热销粮</p>
+												<p class=" ft14 cf40 mt5">买即赠爆款零食单品</p>
+											</div>
+											<img src="img/rexiaolaing.jpg"></a>
+									</div>
+								</div>
+							</div>
+							<div class="imgbox-bot">
+								<div class="bigimg3 fl border-r overflow rela">
+									<a  href="javascript:;">
+										<div class="ad-font">
+											<p class=" ft16 c000">肉食巅峰盛宴</p>
+											<p class=" ft14 cf40 mt5">95%肉类含量</p>
+										</div>
+										<img src="img/dianfengroushi.jpg"></a>
+								</div>
+								<div class="bigimg3 fl border-r overflow rela">
+									<a  href="javascript:;">
+										<div class="ad-font">
+											<p class=" ft16 c000">冠军犬 佰芙粮</p>
+											<p class=" ft14 cf40 mt5">福佑园御用犬粮</p>
+										</div>
+										<img src="img/baifuliang.jpg"></a>
+								</div>
+								<div class="bigimg3 fl border-r overflow rela">
+									<a  href="javascript:;">
+										<div class="ad-font">
+											<p class=" ft16 c000">奥运宝大促</p>
+											<p class=" ft14 cf40 mt5">满100送8，满200送12</p>
+										</div>
+										<img src="img/aoyunbao.jpg"></a>
+								</div>
+							</div>
+						</div>
+						<!--热门内容 END-->
+					</div>
+					<div id="con_one_2">
+						{{include "con_one_21" list}}
+					</div>
+					
+			<div style="clear: both;"></div>
+		</div>
+	</div>
+		<!--品牌块 BEGIN-->
+		<ul class="brands-ul">
+			<li class="fl">
+				<a  href="javascript:;"><img src="img/chunhao.jpg"></a>
+			</li>
+			<li class="fl">
+				<a  href="javascript:;"><img src="img/black.jpg"></a>
+			</li>
+			<li class="fl">
+				<a  href="javascript:;"><img src="img/live.jpg"></a>
+			</li>
+			<li class="fl">
+				<a  href="javascript:;"><img src="img/hitek.jpg"></a>
+			</li>
+			<li class="fl">
+				<a  href="javascript:;"><img src="img/blue.jpg"></a>
+			</li>
+			<li class="fl">
+				<a  href="javascript:;"><img src="img/ziwipeak.jpg"></a>
+			</li>
+			<li class="fl">
+				<a  href="javascript:;"><img src="img/bbbruiji.jpg"></a>
+			</li>
+			<li class="fl">
+				<a  href="javascript:;"><img src="img/fromm.jpg"></a>
+			</li>
+			<div style="clear: both;"></div>
+		</ul>
+		<!--品牌块 END-->
+	</div>
+	</div>
+	{{/each}}
+</script>
+
+<script id="con_one_21" type="text/html">
+	<div class="eight-listpro">
+		<ul class="clearfix" >
+			{{each proData1.src as value i}}
+				<li class="fl">
+					<a  href="javascript:;">
+						<div class="eight"><img src="{{value}}"></div>
+						<h1 class="th1 ft12 c666 overflow">美国卡比 全犬期原味配方狗粮 44磅(19.9kg)</h1>
+						<div class="price1 ft16 dprice mt5">￥618.00</div>
+					</a>
+				</li>
+			{{/each}}
+		</ul>
+	</div>
+</script>
+
+	
+	
+	
+	
+	<!--一楼结束-->
+	<!--楼层结束-->
+</div>

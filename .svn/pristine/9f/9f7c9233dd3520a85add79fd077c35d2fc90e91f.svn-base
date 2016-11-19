@@ -1,0 +1,256 @@
+#head .headBottom .botleft .petClass{
+	display: none;
+}
+#content1 a:hover{
+	color: skyblue;
+}
+#content1 .bigad{
+	width: 100%;
+	height: 360px;
+	position: relative;
+	overflow: hidden;
+}
+#content1 .bigad img{
+	width:1920px;
+	height: 360px;
+	position: absolute;
+	left: -247px;
+	top: 0;
+}
+#content1 .exemption{
+	overflow: hidden;
+	margin-top: 50px;
+}
+#content1 .pavilionleft{
+	position: relative;
+	width: 274px;
+	height: 484px;
+	float: left;
+	
+}
+#content1 .exemption .pavilionleft a{
+	display: block;
+	width: 100%;
+	height: 100%;
+	background: url(../img/parivilion/country-img1.jpg) no-repeat;
+}
+#content1 .pavilionleft span{
+	display: block;
+	padding-top: 16px;
+	margin-left: 12px;
+}
+#content1 .exemption .exemption-right{
+	width: 925px;
+    height: 481px;
+    overflow: hidden;
+    border-top: 2px solid #000;
+    border-bottom: 1px solid #ededed;
+    border-right: 1px solid #e7e7e7;
+}
+#content1 .exemption .exemption-right .right_left{
+	position: relative;
+	width: 376px;
+    padding: 30px;
+    border-right: 1px solid #e7e7e7;
+    height: 421px;
+}
+#content1 .exemption .exemption-right .right_left dt{
+	font-weight: bold;
+}
+#content1 .guoqi{
+	width: 16px;
+	height: 12px;
+	margin-right: 3px;
+}
+#content1 .secondd{
+	color: #d91f20;
+	font-weight: bold;
+	overflow: hidden;
+	position: relative;
+	z-index: 10;
+}
+#content1 .exemption .exemption-right .right_left .botimg{
+	position: absolute;
+	bottom: 20px;
+	right: 20px;
+}
+#content1 .exemption .exemption-right .right_right{
+	width: 488px;
+	
+}
+#content1 .exemption .exemption-right .right_right .right_t{
+	padding: 20px;
+	height: 196px;
+	position: relative;
+	
+}
+#content1 .exemption .exemption-right .right_right .right_t .botimg{
+	padding: 20px;
+	height: 196px;
+	position: absolute;
+	bottom: 20px;
+	right: 20px;
+}
+#content1 .exemption .exemption-right .right_right .right_b{
+	overflow: hidden;
+	width: 100%;
+}
+#content1 .exemption .exemption-right .right_right .right_b dl{
+	width: 203px;
+    height: 204px;
+    padding: 20px;
+    border-top: 1px solid #e7e7e7;
+    border-right: 1px solid #e7e7e7;
+    float: left;
+    position: relative;
+}
+#content1 .exemption .exemption-right .right_right .right_b dl .botimg{
+	position: absolute;
+	bottom: 5px;
+	right: 20px;
+}
+#content1 .america,.Oceania,.Europe,.Asia{
+	overflow: hidden;
+	margin-top: 50px;
+	border-bottom: 1px solid #e7e7e7;
+}
+#content1 .america-left{
+	
+}
+#content1 .america .pavilionleft a{
+	display: block;
+	width: 100%;
+	height: 100%;
+	background: url(../img/parivilion/country-img2.jpg) no-repeat;
+}
+#content1 .Oceania .pavilionleft a{
+	display: block;
+	width: 100%;
+	height: 100%;
+	background: url(../img/parivilion/country-img3.jpg) no-repeat;
+}
+#content1 .Europe .pavilionleft a{
+	display: block;
+	width: 100%;
+	height: 100%;
+	background: url(../img/parivilion/country-img4.jpg) no-repeat;
+}
+#content1 .Asia .pavilionleft a{
+	display: block;
+	width: 100%;
+	height: 100%;
+	background: url(../img/parivilion/country-img5.jpg) no-repeat;
+}
+#content1 .bt{
+	border-top: 2px solid #000;
+}
+#content1 .america-mid{
+	float: left;
+	width: 732px;
+}
+#content1 .america-mid dl{
+	width: 203px;
+    height: 200px;
+    padding:20px;
+    border-top: 1px solid #e7e7e7;
+    border-right: 1px solid #e7e7e7;
+    position: relative;
+}
+#content1 .america-mid dl .botimg{
+	position: absolute;
+	bottom: 10px;
+	left: 50px;
+	
+}
+#content1 .america-mid dl .firstd{
+	width: 200px;
+	white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    cursor: pointer;
+}
+#content1 .america-right{
+	width: 193px;
+	height: 481px;
+	position: relative;
+	float: right;
+	border-right: 1px solid #e7e7e7;
+	
+}
+#content1 .america-right .brand-top{
+	height: 35px;
+    line-height: 35px;
+    border-top: 1px solid #e7e7e7;
+    border-bottom: 1px solid #e7e7e7;
+    padding: 0 10px;
+    margin-bottom: 10px;
+    position: relative;
+}
+#content1 .america-right .brand-top span{
+	font-weight: bold;
+}
+#content1 .america-right .brand-bot{
+	width: 100%;
+	height: 381px;
+	
+}
+#content1 .america-right .brand-bot .slides{
+	margin: 0 auto;
+	width: 148px;
+	height: 100%;
+	text-align: center;
+	position: relative;
+	overflow: hidden;
+}
+
+#content1 .america-right .brand-bot .slides-l{
+	position: absolute;
+    top: 10px;
+    right: 30px;
+    width: 23px;
+    height: 23px;
+    display: block;
+    background: url(../img/Zx.jpg) no-repeat;
+}
+#content1 .america-right .brand-bot .slides-r{
+	position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 23px;
+    height: 23px;
+    display: block;
+    background: url(../img/Zx.jpg) -25px 0 no-repeat;
+}
+
+
+#content1 .america-right .brand-bot .slides ul{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	
+}
+#content1 .america-right .brand-bot .slides .slides-one{
+	z-index: 5;
+}
+#content1 .america-right .brand-bot .slides .slides-two{
+	z-index: 0;
+}
+#content1 .america-right .brand-bot .slides img{
+	width: 146px;
+	height: 61px;
+}
+#content1 .america-right .brand-bot .slides p{
+	background: #ededed;
+    color: #787878;
+    padding: 3px 0;
+}
+#content1 .america-right .brand-bot .slides li{
+	height: 135px;
+}
+#content1 .america-right .america-rightbbb{
+	padding-top: 5px;
+	
+}
+
+
+    

@@ -1,0 +1,9 @@
+body,ul,li,dl,dt,dd,p,ol,h1,h2,h3,h4,h5,h6,form,img,table,fieldset,legend{margin:0; padding:0;}
+ul,li,ol{list-style:none;}
+a{text-decoration: none;color: #333;}
+img{display: block;}
+body{font-size: 12px;font-family: "微软雅黑";}
+input,a{outline: none;}
+li{cursor: pointer;}
+.Center{width: 1200px;margin: 0 auto;}
+

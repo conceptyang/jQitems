@@ -1,0 +1,47 @@
+var oMyepet = document.getElementsByClassName("myepet");
+var oPeo = document.getElementsByClassName("peo");
+oPeo[0].onmouseover=function(){
+	oMyepet[0].style.display = "block";
+	
+	
+}
+
+oPeo[0].onmouseout=function(){
+	oMyepet[0].style.display = "none";
+}
+//$(".peo").on("mouseover",function(){
+//	$(".myepet").css("display",'block')
+//})
+$(".dropme").on("mouseover",function(){
+	$(".probox").css("display","block");
+})
+$(".dropme").on("mouseout",function(){
+	$(".probox").css("display","none");
+})
+$(".dropme .btn").on("mouseover",function(){
+	$(this).css("background-position",'right -115px');
+})
+$(".dropme .btn").on("mouseout",function(){
+	$(this).css("background-position",'right 0');
+})
+
+$(".petselct").on("mouseover",function(){
+	$(".cate1").css("background-position","0 -1257px")
+	$(".petselct .select1").css("display","block")
+	$(this).css("color","#fff")
+})
+$(".petselct").on("mouseout",function(){
+	$(".cate1").css("background-position","-17px -1257px")
+	$(".petselct .select1").css("display","none")
+	$(this).css("color","#666")
+})
+$(".cla").on("mouseover",function(){
+	$(".cate2").css("background-position","-17px -1276px")
+	$(this).css("color","#666")
+	
+})
+$(".cla").on("mouseout",function(){
+	$(".cate2").css("background-position","0 -1276px")
+	$(this).css("color","#fff")
+	
+})

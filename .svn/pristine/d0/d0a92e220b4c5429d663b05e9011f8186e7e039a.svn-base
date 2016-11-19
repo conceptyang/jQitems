@@ -1,0 +1,317 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>【E宠商城】宠物商城_宠物狗_宠物店_宠物用品_宠物网_狗狗网站 </title>
+		<link rel="stylesheet" type="text/css" href="css/home.css"/>
+	</head>
+	<body>
+		<div id="head">
+			<div class="headerTop">
+				<div class="Center">
+					<div class="ht_left">   <!--头部顶部左侧-->
+						<div class="place">
+							送至:<span class="destnation">重庆</span><span class="dire"></span>
+							<div class="real_place">
+								<ul class="place-header">
+									<li>重庆</li>
+									<li>渝中区</li>
+								</ul>
+								<div class="place-content">
+									<div class="place-province">
+										<div class="province1">
+											<span>华北:</span>
+											<a href="javascript:;">北京</a>
+											<a href="javascript:;">天津</a>
+											<a href="javascript:;">河北</a>
+											<a href="javascript:;">山西</a>
+											<a href="javascript:;">内蒙古</a>
+										</div>
+										<div class="province1">
+											<span>华东:</span>
+											<a href="javascript:;">上海</a>
+											<a href="javascript:;">江苏</a>
+											<a href="javascript:;">浙江</a>
+											<a href="javascript:;">安徽</a>
+											<a href="javascript:;">福建</a>
+											<a href="javascript:;">山东</a>
+										</div>
+										<div class="province1">
+											<span>华北:</span>
+											<a href="javascript:;">北京</a>
+											<a href="javascript:;">天津</a>
+											<a href="javascript:;">河北</a>
+											<a href="javascript:;">山西</a>
+											<a href="javascript:;">内蒙古</a>
+										</div>
+										<div class="province1">
+											<span>华北:</span>
+											<a href="javascript:;">北京</a>
+											<a href="javascript:;">天津</a>
+											<a href="javascript:;">河北</a>
+											<a href="javascript:;">山西</a>
+											<a href="javascript:;">内蒙古</a>
+										</div>
+										<div class="province1">
+											<span>华北:</span>
+											<a href="javascript:;">北京</a>
+											<a href="javascript:;">天津</a>
+											<a href="javascript:;">河北</a>
+											<a href="javascript:;">山西</a>
+											<a href="javascript:;">内蒙古</a>
+										</div>
+										<div class="province1">
+											<span>华北:</span>
+											<a href="javascript:;">北京</a>
+											<a href="javascript:;">天津</a>
+											<a href="javascript:;">河北</a>
+											<a href="javascript:;">山西</a>
+											<a href="javascript:;">内蒙古</a>
+										</div>
+										<div class="province1">
+											<span>华北:</span>
+											<a href="javascript:;">北京</a>
+											<a href="javascript:;">天津</a>
+											<a href="javascript:;">河北</a>
+											<a href="javascript:;">山西</a>
+											<a href="javascript:;">内蒙古</a>
+										</div>
+										<div class="province1">
+											<span>华北:</span>
+											<a href="javascript:;">北京</a>
+											<a href="javascript:;">天津</a>
+											<a href="javascript:;">河北</a>
+											<a href="javascript:;">山西</a>
+											<a href="javascript:;">内蒙古</a>
+										</div>
+									</div>
+									<div class="place-city">
+										<div class="city1">
+											
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<a class="epetbrand">E宠就是正品</a>
+						<a href="javascript:;">评价(<span style="color: #f60;">421.9万</span>)</a>
+					</div>
+					 <!--头部顶部右侧-->
+						<ul class="ht_right">
+							<li><a href="javascript:;">[登录]</a></li>
+							<li><a href="javascript:;">[注册]</a></li>
+							<li class="shop"><a href="javascript:;"><i></i>购物车(<span id="gou">0</span>)</a></li>
+							<li class="peo"><a href="javascript:;"><i></i>我的E宠</a><b></b>
+								<ul class="myepet">
+									<li><a href="javascript:;">我的订单</a></li>
+									<li><a href="javascript:;">充值得优惠</a></li>
+									<li><a href="javascript:;">兑换现金劵</a></li>
+								</ul>
+							</li>
+							<li class="dropme"><a href="javascript:;">收藏我<i></i></a>
+								<div class="probox">
+									<a class="btn" href="javascript:;"><span>加入收藏夹</span></a>
+									<a class="btn" href="javascript:;"><span>保存到桌面</span></a>
+								</div>
+							</li>
+							<li class="phone"><a href="javascript:;"><i></i>手机版</a><b></b></li>
+							<li><a href="javascript:;">帮助</a></li>
+							<li><a href="javascript:;" style="color: red;">投诉建议</a></li>
+						</ul>
+				</div>
+			</div>
+			<div class="Center">
+				<div class="headMiddle">
+					<a class="loge">
+						
+					</a>
+					<form class="search">
+						<ul class="searchresult">
+							
+						</ul>
+						<div class="searchform">
+							<input type="text" name="keyword" id="ss" placeholder="优卡EuKanuba" />
+							<span value="true" class="sou" type="submit">搜索</span>
+						</div>
+						<div class="keywords">
+							<label>热门搜索:</label>
+							<a href="javascript:;" target="_blank" style="color: #f00;">巅峰肉粮</a>
+							<span>|</span>
+							<a href="javascript:;" target="_blank">KONG</a>
+							<span>|</span>
+							<a href="javascript:;" target="_blank">百利纯真生食</a>
+							<span>|</span>
+							<a href="javascript:;" target="_blank">进口粮5折起</a>
+							<span>|</span>
+							<a href="javascript:;" target="_blank">巴西淘淘买1送1</a>
+						</div>
+					</form>
+					<div class="hotphone">
+						
+					</div>
+					<div class="shopcar">
+						<span class="dongcar"></span>
+						<a class="gogo" href="javascript:;">购物车(<em class="cartnum">0</em>)</a>
+					</div>
+				</div>
+				
+				<div class="headBottom">
+					<ul class="botleft">
+						<li class="petselct">
+							<span>狗狗</span><b class="cate1"></b>
+							<div class="select">
+								<dl class="select1">
+									<dd class="select2">
+										<a href="javascript:;">
+											<span></span>
+										</a>
+										<p>19353种精选宝贝</p>
+										<a class="now" href="javascript:;">你正在狗狗站溜达</a>
+									</dd>
+									<dd class="select2 select3">
+										<a href="javascript:;">
+											<span></span>
+										</a>
+										<p>8248种精选宝贝</p>
+										<a class="now" href="javascript:;">点击切换</a>
+									</dd>
+								</dl>
+								
+							</div>
+						</li>
+						<li class="cla">
+							商品分类<b class="cate2"></b>
+						</li>
+						<div class="petClass">
+							<ul>
+								<li>
+										<span class="menuIcobg menu1"></span>
+										<a href="javascript:;">主粮<i>2029</i></a>
+										<a href="javascript:;">零食<i>2763</i></a>
+								</li>
+								<li>
+										<span class="menuIcobg menu2"></span>
+										<a href="javascript:;">日用<i>2797</i></a>
+										<a href="javascript:;">玩具<i>2026</i></a>
+								</li>
+								<li>
+										<span class="menuIcobg menu3"></span>
+										<a href="javascript:;">保健<i>785</i></a>
+										<a href="javascript:;">医疗<i>758</i></a>
+								</li>
+								<li>
+										<span class="menuIcobg menu4"></span>
+										<a href="javascript:;">服饰<i>3940</i></a>
+										<a href="javascript:;">牵引<i>2763</i></a>
+								</li>
+								<li>
+									<span class="menuIcobg menu5"></span>
+										<a href="javascript:;">美容<i>2029</i></a>
+										<a href="javascript:;">香波<i>982</i></a>
+								</li>
+								<li>
+									<span class="menuIcobg menu6"></span>
+										<a href="javascript:;">书籍<i>53</i></a>
+										<a href="javascript:;">杂志<i>53</i></a>
+								</li>
+								<li>
+									<span class="menuIcobg menu7"></span>
+										<a href="javascript:;">周边<i>100</i></a>
+										<a href="javascript:;">定制<i>75</i></a>
+								</li>
+							</ul>
+							<p class="activty">
+								<img src="img/active.png"/>
+								正在进行的活动<a>13</a>
+							</p>
+						</div>	
+						<div class="dogs">
+							<div class="dog_l">
+								<div class="dog1">
+									<p class="title">
+										<img class="titimg" src="img/titimg.jpg"/>
+										<span class="tmain">狗狗主粮</span>
+										<i class="xiabutt"></i><a class="dongtu" href="javascript:;">
+										<img src="img/jingpin.gif" alt="膳食一号超值满省" /></a>
+									</p>
+									<p class="xiaolei title">
+										<a href="javascript:;" class="xiao_biao">进口狗粮</a>
+										<img src="img/xiaoimg.jpg" class="xiaoimg" />
+										<span>|</span>
+										<a href="javascript:;">全犬粮</a>
+										<span>|</span>
+										<a href="javascript:;">幼犬粮</a>
+										<span>|</span>
+										<a href="javascript:;">成犬粮</a>
+										<span>|</span>
+										<a href="javascript:;">老犬粮</a>
+										<span>|</span>
+										<a href="javascript:;">安娜玛特</a>
+										<span>|</span>
+										<a href="javascript:;">海洋之星买赠</a>
+									</p>
+									<p class="xiaolei title">
+										<a href="javascript:;" class="xiao_biao">国产狗粮</a>
+										<img src="img/niunai.jpg" class="xiaoimg" />
+										<span>|</span>
+										<a href="javascript:;">全犬粮</a>
+										<span>|</span>
+										<a href="javascript:;">幼犬粮</a>
+										<span>|</span>
+										<a href="javascript:;">成犬粮</a>
+										<span>|</span>
+										<a href="javascript:;">老犬粮</a>
+										<span>|</span>
+										<a href="javascript:;">优卡</a>
+										<span>|</span>
+										<a href="javascript:;">雅美超值满省</a>
+									</p>
+									<p class="xiaolei title">
+										<a href="javascript:;" class="xiao_biao">散装狗粮</a>
+										<img src="img/tuo.jpg" class="xiaoimg" />
+										<span>|</span>
+										<a href="javascript:;">全犬粮</a>
+										<span>|</span>
+										<a href="javascript:;">幼犬粮</a>
+										<span>|</span>
+										<a href="javascript:;">成犬粮</a>
+										<span>|</span>
+										<a href="javascript:;">老犬粮</a>
+										<span>|</span>
+										<a href="javascript:;">小型犬粮</a>
+										<span>|</span>
+										<a href="javascript:;">进口拆穿</a>
+									</p>
+									<p class="xiaolei title">
+										<a href="javascript:;" class="xiao_biao">处方狗粮</a>
+										<img src="img/nai.jpg" class="xiaoimg" />
+										<span>|</span>
+										<a href="javascript:;">肠胃处方粮</a>
+										<span>|</span>
+										<a href="javascript:;">体重控制</a>
+										<span>|</span>
+										<a href="javascript:;">心肾保护</a>
+										<span>|</span>
+										<a href="javascript:;">泌尿护理</a>
+										<span>|</span>
+										<a href="javascript:;">特护营养</a>
+										
+									</p>
+								</div>
+							</div>
+						</div>	
+					</ul>
+				</div>
+			</div>
+			
+		</div>
+		<div id="content">
+			<div class="Center"></div>
+		</div>
+		<div id="foot">
+			<div class="Center"></div>
+		</div>
+		<script src="js/jquery-3.1.1.js" type="text/javascript" charset="utf-8"></script>
+		<script src="js/head.js" type="text/javascript" charset="utf-8"></script>
+	</body>
+</html>

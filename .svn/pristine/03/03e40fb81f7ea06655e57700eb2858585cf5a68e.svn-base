@@ -1,0 +1,1315 @@
+	<div class="headerTop">
+				<div class="Center">
+					<div class="ht_left">   <!--头部顶部左侧-->
+						<div class="place">
+							送至:<span class="destnation">重庆</span><span class="dire"></span>
+							<div class="real_place">
+								<ul class="place-header">
+									<li>重庆</li>
+									<li>渝中区</li>
+								</ul>
+								<div class="place-content">
+									<div class="place-province">
+										<div class="province1">
+											<span>华北:</span>
+											<a href="javascript:;">北京</a>
+											<a href="javascript:;">天津</a>
+											<a href="javascript:;">河北</a>
+											<a href="javascript:;">山西</a>
+											<a href="javascript:;">内蒙古</a>
+										</div>
+										<div class="province1">
+											<span>华东:</span>
+											<a href="javascript:;">上海</a>
+											<a href="javascript:;">江苏</a>
+											<a href="javascript:;">浙江</a>
+											<a href="javascript:;">安徽</a>
+											<a href="javascript:;">福建</a>
+											<a href="javascript:;">山东</a>
+										</div>
+										<div class="province1">
+											<span>华北:</span>
+											<a href="javascript:;">北京</a>
+											<a href="javascript:;">天津</a>
+											<a href="javascript:;">河北</a>
+											<a href="javascript:;">山西</a>
+											<a href="javascript:;">内蒙古</a>
+										</div>
+										<div class="province1">
+											<span>华北:</span>
+											<a href="javascript:;">北京</a>
+											<a href="javascript:;">天津</a>
+											<a href="javascript:;">河北</a>
+											<a href="javascript:;">山西</a>
+											<a href="javascript:;">内蒙古</a>
+										</div>
+										<div class="province1">
+											<span>华北:</span>
+											<a href="javascript:;">北京</a>
+											<a href="javascript:;">天津</a>
+											<a href="javascript:;">河北</a>
+											<a href="javascript:;">山西</a>
+											<a href="javascript:;">内蒙古</a>
+										</div>
+										<div class="province1">
+											<span>华北:</span>
+											<a href="javascript:;">北京</a>
+											<a href="javascript:;">天津</a>
+											<a href="javascript:;">河北</a>
+											<a href="javascript:;">山西</a>
+											<a href="javascript:;">内蒙古</a>
+										</div>
+										<div class="province1">
+											<span>华北:</span>
+											<a href="javascript:;">北京</a>
+											<a href="javascript:;">天津</a>
+											<a href="javascript:;">河北</a>
+											<a href="javascript:;">山西</a>
+											<a href="javascript:;">内蒙古</a>
+										</div>
+										<div class="province1">
+											<span>华北:</span>
+											<a href="javascript:;">北京</a>
+											<a href="javascript:;">天津</a>
+											<a href="javascript:;">河北</a>
+											<a href="javascript:;">山西</a>
+											<a href="javascript:;">内蒙古</a>
+										</div>
+									</div>
+									<div class="place-city">
+										<div class="city1">
+											
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<a class="epetbrand">E宠就是正品</a>
+						<a href="javascript:;">评价(<span style="color: #f60;">421.9万</span>)</a>
+					</div>
+					 <!--头部顶部右侧-->
+						<ul class="ht_right">
+							<li><a href="javascript:;">[登录]</a></li>
+							<li><a href="javascript:;">[注册]</a></li>
+							<li class="shop"><a href="javascript:;"><i class="iconfont">&#xe600;</i>购物车(<span id="gou">0</span>)</a></li>
+							<li class="peo"><a href="javascript:;"><i class="iconfont">&#xe9bd;</i>我的E宠</a><b></b>
+								<ul class="myepet">
+									<li><a href="javascript:;">我的订单</a></li>
+									<li><a href="javascript:;">充值得优惠</a></li>
+									<li><a href="javascript:;">兑换现金劵</a></li>
+								</ul>
+							</li>
+							<li class="dropme"><a href="javascript:;">收藏我<i></i></a>
+								<div class="probox">
+									<a class="btn" href="javascript:;"><span>加入收藏夹</span></a>
+									<a class="btn" href="javascript:;"><span>保存到桌面</span></a>
+								</div>
+							</li>
+							<li class="phone"><a href="javascript:;"><i></i>手机版</a><b></b></li>
+							<li><a href="javascript:;">帮助</a></li>
+							<li><a href="javascript:;" style="color: red;">投诉建议</a></li>
+						</ul>
+				</div>
+			</div>
+			<div class="Center">
+				<div class="headMiddle">
+					<a class="loge" href="home.html">
+						
+					</a>
+					<form class="search">
+						<ul class="searchresult">
+							
+						</ul>
+						<div class="searchform">
+							<input type="text" name="keyword" id="ss" placeholder="优卡EuKanuba" />
+							<span value="true" class="sou" type="submit">搜索</span>
+						</div>
+						<div class="keywords">
+							<label>热门搜索:</label>
+							<a href="javascript:;" target="_blank" style="color: #f00;">巅峰肉粮</a>
+							<span>|</span>
+							<a href="javascript:;" target="_blank">KONG</a>
+							<span>|</span>
+							<a href="javascript:;" target="_blank">百利纯真生食</a>
+							<span>|</span>
+							<a href="javascript:;" target="_blank">进口粮5折起</a>
+							<span>|</span>
+							<a href="javascript:;" target="_blank">巴西淘淘买1送1</a>
+						</div>
+					</form>
+					<div class="hotphone">
+						
+					</div>
+					<div class="shopcar">
+						<span class="dongcar"></span>
+						<a class="gogo" href="javascript:;">购物车(<em class="cartnum">0</em>)</a>
+					</div>
+				</div>
+				
+				<div class="headBottom">
+					<ul class="botleft">
+						<li class="petselct">
+							<span>狗狗</span><b class="cate1"></b>
+							<div class="select">
+								<dl class="select1">
+									<dd class="select2">
+										<a href="javascript:;">
+											<span></span>
+										</a>
+										<p>19353种精选宝贝</p>
+										<a class="now" href="javascript:;">你正在狗狗站溜达</a>
+									</dd>
+									<dd class="select2 select3">
+										<a href="javascript:;">
+											<span></span>
+										</a>
+										<p>8248种精选宝贝</p>
+										<a class="now" href="javascript:;">点击切换</a>
+									</dd>
+								</dl>
+								
+							</div>
+						</li>
+						<li class="cla">
+							商品分类<b class="cate2"></b>
+						</li>
+						<div class="zhao">
+							<div class="petClass">
+								<ul id="petlist">
+									<li class="">
+											<span class="menuIcobg menu1"></span>
+											<a href="javascript:;">主粮<i>2029</i></a>
+											<a href="javascript:;">零食<i>2763</i></a>
+									</li>
+									<li>
+											<span class="menuIcobg menu2"></span>
+											<a href="javascript:;">日用<i>2797</i></a>
+											<a href="javascript:;">玩具<i>2026</i></a>
+									</li>
+									<li>
+											<span class="menuIcobg menu3"></span>
+											<a href="javascript:;">保健<i>785</i></a>
+											<a href="javascript:;">医疗<i>758</i></a>
+									</li>
+									<li>
+											<span class="menuIcobg menu4"></span>
+											<a href="javascript:;">服饰<i>3940</i></a>
+											<a href="javascript:;">牵引<i>2763</i></a>
+									</li>
+									<li>
+										<span class="menuIcobg menu5"></span>
+											<a href="javascript:;">美容<i>2029</i></a>
+											<a href="javascript:;">香波<i>982</i></a>
+									</li>
+									<li>
+										<span class="menuIcobg menu6"></span>
+											<a href="javascript:;">书籍<i>53</i></a>
+											<a href="javascript:;">杂志<i>53</i></a>
+									</li>
+									<li>
+										<span class="menuIcobg menu7"></span>
+											<a href="javascript:;">周边<i>100</i></a>
+											<a href="javascript:;">定制<i>75</i></a>
+									</li>
+									<div style="clear: both;"></div>
+								</ul>
+								<p class="activty">
+									<img src="img/active.png"/>
+									正在进行的活动<a>13</a>
+								</p>
+							</div>	
+							<div class="dogs">
+								<div class="dog_l">
+									<div class="a">
+										<div class="dog0 dogg">
+											<p class="title">
+												<img class="titimg" src="img/titimg.jpg"/>
+												<span class="tmain">狗狗主粮</span>
+												<i class="xiabutt"></i><a class="dongtu" href="javascript:;">
+												<img src="img/jingpin.gif" alt="膳食一号超值满省" /></a>
+											</p>
+											<p class="xiaolei title">
+												<a href="javascript:;" class="xiao_biao">进口狗粮</a>
+												<img src="img/xiaoimg.jpg" class="xiaoimg" />
+												<span>|</span>
+												<a href="javascript:;">全犬粮</a>
+												<span>|</span>
+												<a href="javascript:;">幼犬粮</a>
+												<span>|</span>
+												<a href="javascript:;">成犬粮</a>
+												<span>|</span>
+												<a href="javascript:;">老犬粮</a>
+												<span>|</span>
+												<a href="javascript:;">安娜玛特</a>
+												<span>|</span>
+												<a href="javascript:;">海洋之星买赠</a>
+											</p>
+											<p class="xiaolei title">
+												<a href="javascript:;" class="xiao_biao">国产狗粮</a>
+												<img src="img/niunai.jpg" class="xiaoimg" />
+												<span>|</span>
+												<a href="javascript:;">全犬粮</a>
+												<span>|</span>
+												<a href="javascript:;">幼犬粮</a>
+												<span>|</span>
+												<a href="javascript:;">成犬粮</a>
+												<span>|</span>
+												<a href="javascript:;">老犬粮</a>
+												<span>|</span>
+												<a href="javascript:;">优卡</a>
+												<span>|</span>
+												<a href="javascript:;">雅美超值满省</a>
+											</p>
+											<p class="xiaolei title">
+												<a href="javascript:;" class="xiao_biao">散装狗粮</a>
+												<img src="img/tuo.jpg" class="xiaoimg" />
+												<span>|</span>
+												<a href="javascript:;">全犬粮</a>
+												<span>|</span>
+												<a href="javascript:;">幼犬粮</a>
+												<span>|</span>
+												<a href="javascript:;">成犬粮</a>
+												<span>|</span>
+												<a href="javascript:;">老犬粮</a>
+												<span>|</span>
+												<a href="javascript:;">小型犬粮</a>
+												<span>|</span>
+												<a href="javascript:;">进口拆穿</a>
+											</p>
+											<p class="xiaolei title">
+												<a href="javascript:;" class="xiao_biao">处方狗粮</a>
+												<img src="img/nai.jpg" class="xiaoimg" />
+												<span>|</span>
+												<a href="javascript:;">肠胃处方粮</a>
+												<span>|</span>
+												<a href="javascript:;">体重控制</a>
+												<span>|</span>
+												<a href="javascript:;">心肾保护</a>
+												<span>|</span>
+												<a href="javascript:;">泌尿护理</a>
+												<span>|</span>
+												<a href="javascript:;">特护营养</a>
+											</p>
+										</div>
+										<div class="dog0 dogg">
+											<p class="title">
+												<img class="titimg" src="img/goulingshi.jpg"/>
+												<span class="tmain">狗狗零食</span>
+												<i class="xiabutt"></i><a class="dongtu" href="javascript:;">
+												<img src="img/title1.gif" alt="膳食一号超值满省" /></a>
+											</p>
+											<p class="xiaolei title">
+												<a href="javascript:;" class="xiao_biao">磨牙洁齿</a>
+												<img src="img/xiaoimg.jpg" class="xiaoimg" />
+												<span>|</span>
+												<a href="javascript:;">真骨类</a>
+												<span>|</span>
+												<a href="javascript:;">咬胶类</a>
+												<span>|</span>
+												<a href="javascript:;">饼干类</a>
+												<span>|</span>
+												<a href="javascript:;">其他</a>
+												<span>|</span>
+												<a href="javascript:;">禾仕嘉</a>
+												<span>|</span>
+												
+											</p>
+											<p class="xiaolei title">
+												<a href="javascript:;" class="xiao_biao">肉质零食</a>
+												<img src="img/niunai.jpg" class="xiaoimg" />
+												<span>|</span>
+												<a href="javascript:;">鸡肉</a>
+												<span>|</span>
+												<a href="javascript:;">牛肉</a>
+												<span>|</span>
+												<a href="javascript:;">鱼肉</a>
+												<span>|</span>
+												<a href="javascript:;">羊肉</a>
+												<span>|</span>
+												<a href="javascript:;">鹿肉</a>
+												<span>|</span>
+												<a href="javascript:;">鸭肉</a>
+												<span>|</span>
+												<a href="javascript:;">顽皮</a>
+											</p>
+											<p class="xiaolei title">
+												<a href="javascript:;" class="xiao_biao">奶酪布丁</a>
+												<img src="img/tuo.jpg" class="xiaoimg" />
+												<span>|</span>
+												<a href="javascript:;">蒙吉乐</a>
+												<span>|</span>
+												<a href="javascript:;">名友</a>
+												<span>|</span>
+												<a href="javascript:;">Add Mate</a>
+											</p>
+											<p class="xiaolei title">
+												<a href="javascript:;" class="xiao_biao">罐头湿粮</a>
+												<img src="img/nai.jpg" class="xiaoimg" />
+												<span>|</span>
+												<a href="javascript:;">罐头</a>
+												<span>|</span>
+												<a href="javascript:;">餐盆</a>
+												<span>|</span>
+												<a href="javascript:;">妙鲜包</a>
+												<span>|</span>
+												<a href="javascript:;">菲菲宝</a>
+											</p>
+											<p class="xiaolei title">
+												<a href="javascript:;" class="xiao_biao">梵米派</a>
+												<img src="img/nai.jpg" class="xiaoimg" />
+												<span>|</span>
+												<a href="javascript:;">出口级品质零食</a>
+											</p>
+										</div>
+									</div>
+									<div class="b">
+											
+									<div class="dog1 dogg">
+											<p class="title">
+												<img class="titimg" src="img/qingjie.jpg"/>
+												<span class="tmain">狗狗日用</span>
+												<i class="xiabutt"></i><a class="dongtu" href="javascript:;">
+												<img src="img/daodangui.gif" alt="膳食一号超值满省" /></a>
+											</p>
+											<p class="xiaolei title">
+												<a href="javascript:;" class="xiao_biao">狗狗餐具</a>
+												<img src="img/pen1.jpg" class="xiaoimg" />
+												<span>|</span>
+												<a href="javascript:;">食盆</a>
+												<span>|</span>
+												<a href="javascript:;">奶瓶</a>
+												<span>|</span>
+												<a href="javascript:;">饮水器</a>
+												<span>|</span>
+												<a href="javascript:;">储粮桶</a>
+												<span>|</span>
+												<a href="javascript:;">定时喂食器</a>
+												<span>|</span>
+												<a href="javascript:;">9折买1赠2</a>
+											</p>
+											<p class="xiaolei title">
+												<a href="javascript:;" class="xiao_biao">狗狗清洁</a>
+												<img src="img/qingjie.jpg" class="xiaoimg" />
+												<span>|</span>
+												<a href="javascript:;">厕所</a>
+												<span>|</span>
+												<a href="javascript:;">尿片</a>
+												<span>|</span>
+												<a href="javascript:;">湿巾</a>
+												<span>|</span>
+												<a href="javascript:;">清洁剂</a>
+												<span>|</span>
+												<a href="javascript:;">洗手液</a>
+											</p>
+											<p class="xiaolei title">
+												<a href="javascript:;" class="xiao_biao">狗狗外出</a>
+												<img src="img/hangkongxiang.jpg" class="xiaoimg" />
+												<span>|</span>
+												<a href="javascript:;">航空箱</a>
+												<span>|</span>
+												<a href="javascript:;">宠物包</a>
+												<span>|</span>
+												<a href="javascript:;">宠物车垫</a>
+												<span>|</span>
+												<a href="javascript:;">户外用品</a>
+												<span>|</span>
+												<a href="javascript:;">外出装备，最高省30!</a>
+											</p>
+											<p class="xiaolei title">
+												<a href="javascript:;" class="xiao_biao">狗狗住所</a>
+												<img src="img/zhusuo.jpg" class="xiaoimg" />
+												<span>|</span>
+												<a href="javascript:;">卡通系列窝</a>
+												<span>|</span>
+												<a href="javascript:;">经典南瓜窝</a>
+												<span>|</span>
+												<a href="javascript:;">棉垫</a>
+											</p>
+											<p class="xiaolei title">
+												<a href="javascript:;" class="xiao_biao">狗狗训练</a>
+												<img src="img/xunlian.jpg" class="xiaoimg" />
+												<span>|</span>
+												<a href="javascript:;">禁区喷</a>
+												<span>|</span>
+												<a href="javascript:;">爱心拍</a>
+												<span>|</span>
+												<a href="javascript:;">排便诱导</a>
+												<span>|</span>
+												<a href="javascript:;">行为纠正</a>
+												<span>|</span>
+												<a href="javascript:;">让爱犬听话的法宝</a>
+											</p>
+											<p class="xiaolei title">
+												<a href="javascript:;" class="xiao_biao">爱丽思</a>
+												<img src="img/fangzi.jpg" class="xiaoimg" />
+												<span>|</span>
+												<a href="javascript:;">浴盆</a>
+												<span>|</span>
+												<a href="javascript:;">厕所</a>
+												<span>|</span>
+												<a href="javascript:;">笼子</a>
+												<span>|</span>
+												<a href="javascript:;">围栏</a>
+												<span>|</span>
+												<a href="javascript:;">航空箱</a>
+											</p>
+										</div>
+										<div class="dog1 dogg">
+											<p class="title">
+												<img class="titimg" src="img/gouwanju.jpg"/>
+												<span class="tmain">狗狗玩具</span>
+												<i class="xiabutt"></i><a class="dongtu" href="javascript:;">
+												<img src="img/wanjug.gif" alt="膳食一号超值满省" /></a>
+											</p>
+											<p class="xiaolei title">
+												<a href="javascript:;" class="xiao_biao">棉制玩具</a>
+												<img src="img/xiaoimg.jpg" class="xiaoimg" />
+												<span>|</span>
+												<a href="javascript:;">发声型</a>
+												<span>|</span>
+												<a href="javascript:;">非发声型</a>
+												<span>|</span>
+												<a href="javascript:;">小型犬</a>
+												<span>|</span>
+												<a href="javascript:;">大型犬</a>
+												<span>|</span>
+												<a href="javascript:;">梵米派</a>
+												<span>|</span>
+												<a href="javascript:;">酷极</a>
+											</p>
+											<p class="xiaolei title">
+												<a href="javascript:;" class="xiao_biao">橡胶玩具</a>
+												<img src="img/niunai.jpg" class="xiaoimg" />
+												<span>|</span>
+												<a href="javascript:;">发声型</a>
+												<span>|</span>
+												<a href="javascript:;">非发声型</a>
+												<span>|</span>
+												<a href="javascript:;">漏食型</a>
+												<span>|</span>
+												<a href="javascript:;">战斗鸡</a>
+												<span>|</span>
+												<a href="javascript:;">惨叫猪</a>
+												<span>|</span>
+												<a href="javascript:;">Nylabon</a>
+											</p>
+											<p class="xiaolei title">
+												<a href="javascript:;" class="xiao_biao">塑料玩具</a>
+												<img src="img/tuo.jpg" class="xiaoimg" />
+												<span>|</span>
+												<a href="javascript:;">发声型</a>
+												<span>|</span>
+												<a href="javascript:;">非发声型</a>
+												<span>|</span>
+												<a href="javascript:;">飞盘</a>
+												<span>|</span>
+												<a href="javascript:;">漏食玩具</a>
+												<span>|</span>
+												<a href="javascript:;">益智玩具</a>
+												<span>|</span>
+												<a href="javascript:;">意潇</a>
+											</p>
+											<p class="xiaolei title">
+												<a href="javascript:;" class="xiao_biao">手工玩具</a>
+												<img src="img/nai.jpg" class="xiaoimg" />
+												<span>|</span>
+												<a href="javascript:;">毛线小狗</a>
+												<span>|</span>
+												<a href="javascript:;">开心熊宝宝</a>
+												<span>|</span>
+												<a href="javascript:;">小小魔杖</a>
+												<span>|</span>
+												<a href="javascript:;">日本THE DOG</a>
+											</p>
+											<p class="xiaolei title">
+												<a href="javascript:;" class="xiao_biao">食用玩具</a>
+												<img src="img/nai.jpg" class="xiaoimg" />
+												<span>|</span>
+												<a href="javascript:;">憨八龟</a>
+												<span>|</span>
+												<a href="javascript:;">美丽花朵</a>
+												<span>|</span>
+												<a href="javascript:;">叔叔的靴子</a>
+												<span>|</span>
+												<a href="javascript:;">甜心胡萝卜 PETSTAGES</a>
+											</p>
+											<p class="xiaolei title">
+												<a href="javascript:;" class="xiao_biao">木质玩具</a>
+												<img src="img/nai.jpg" class="xiaoimg" />
+												<span>|</span>
+												<a href="javascript:;">美国进口</a>
+												<span>|</span>
+												<a href="javascript:;">迷宫</a>
+												<span>|</span>
+												<a href="javascript:;">战斗机</a>
+												<span>|</span>
+												<a href="javascript:;">Karlie</a>
+											</p>
+											<p class="xiaolei title">
+												<a href="javascript:;" class="xiao_biao">梵米派</a>
+												<img src="img/nai.jpg" class="xiaoimg" />
+												<span>|</span>
+												<a href="javascript:;">小丑帽</a>
+												<span>|</span>
+												<a href="javascript:;">灰色小熊</a>
+												<span>|</span>
+												<a href="javascript:;">史前飞天龙</a>
+												
+											</p>
+										</div>
+									</div>
+									<div class="c">
+										<div class="dog2 dogg">
+										<p class="title">
+											<img class="titimg" src="img/goulingshi.jpg"/>
+											<span class="tmain">狗狗零食</span>
+											<i class="xiabutt"></i><a class="dongtu" href="javascript:;">
+											<img src="img/title1.gif" alt="膳食一号超值满省" /></a>
+										</p>
+										<p class="xiaolei title">
+											<a href="javascript:;" class="xiao_biao">磨牙洁齿</a>
+											<img src="img/xiaoimg.jpg" class="xiaoimg" />
+											<span>|</span>
+											<a href="javascript:;">真骨类</a>
+											<span>|</span>
+											<a href="javascript:;">咬胶类</a>
+											<span>|</span>
+											<a href="javascript:;">饼干类</a>
+											<span>|</span>
+											<a href="javascript:;">其他</a>
+											<span>|</span>
+											<a href="javascript:;">禾仕嘉</a>
+											<span>|</span>
+											
+										</p>
+										<p class="xiaolei title">
+											<a href="javascript:;" class="xiao_biao">肉质零食</a>
+											<img src="img/niunai.jpg" class="xiaoimg" />
+											<span>|</span>
+											<a href="javascript:;">鸡肉</a>
+											<span>|</span>
+											<a href="javascript:;">牛肉</a>
+											<span>|</span>
+											<a href="javascript:;">鱼肉</a>
+											<span>|</span>
+											<a href="javascript:;">羊肉</a>
+											<span>|</span>
+											<a href="javascript:;">鹿肉</a>
+											<span>|</span>
+											<a href="javascript:;">鸭肉</a>
+											<span>|</span>
+											<a href="javascript:;">顽皮</a>
+										</p>
+										<p class="xiaolei title">
+											<a href="javascript:;" class="xiao_biao">奶酪布丁</a>
+											<img src="img/tuo.jpg" class="xiaoimg" />
+											<span>|</span>
+											<a href="javascript:;">蒙吉乐</a>
+											<span>|</span>
+											<a href="javascript:;">名友</a>
+											<span>|</span>
+											<a href="javascript:;">Add Mate</a>
+										</p>
+										<p class="xiaolei title">
+											<a href="javascript:;" class="xiao_biao">罐头湿粮</a>
+											<img src="img/nai.jpg" class="xiaoimg" />
+											<span>|</span>
+											<a href="javascript:;">罐头</a>
+											<span>|</span>
+											<a href="javascript:;">餐盆</a>
+											<span>|</span>
+											<a href="javascript:;">妙鲜包</a>
+											<span>|</span>
+											<a href="javascript:;">菲菲宝</a>
+										</p>
+										<p class="xiaolei title">
+											<a href="javascript:;" class="xiao_biao">梵米派</a>
+											<img src="img/nai.jpg" class="xiaoimg" />
+											<span>|</span>
+											<a href="javascript:;">出口级品质零食</a>
+										</p>
+									</div>
+									<div class="dog2 dogg">
+										<p class="title">
+											<img class="titimg" src="img/goulingshi.jpg"/>
+											<span class="tmain">狗狗零食</span>
+											<i class="xiabutt"></i><a class="dongtu" href="javascript:;">
+											<img src="img/title1.gif" alt="膳食一号超值满省" /></a>
+										</p>
+										<p class="xiaolei title">
+											<a href="javascript:;" class="xiao_biao">磨牙洁齿</a>
+											<img src="img/xiaoimg.jpg" class="xiaoimg" />
+											<span>|</span>
+											<a href="javascript:;">真骨类</a>
+											<span>|</span>
+											<a href="javascript:;">咬胶类</a>
+											<span>|</span>
+											<a href="javascript:;">饼干类</a>
+											<span>|</span>
+											<a href="javascript:;">其他</a>
+											<span>|</span>
+											<a href="javascript:;">禾仕嘉</a>
+											<span>|</span>
+											
+										</p>
+										<p class="xiaolei title">
+											<a href="javascript:;" class="xiao_biao">肉质零食</a>
+											<img src="img/niunai.jpg" class="xiaoimg" />
+											<span>|</span>
+											<a href="javascript:;">鸡肉</a>
+											<span>|</span>
+											<a href="javascript:;">牛肉</a>
+											<span>|</span>
+											<a href="javascript:;">鱼肉</a>
+											<span>|</span>
+											<a href="javascript:;">羊肉</a>
+											<span>|</span>
+											<a href="javascript:;">鹿肉</a>
+											<span>|</span>
+											<a href="javascript:;">鸭肉</a>
+											<span>|</span>
+											<a href="javascript:;">顽皮</a>
+										</p>
+										<p class="xiaolei title">
+											<a href="javascript:;" class="xiao_biao">奶酪布丁</a>
+											<img src="img/tuo.jpg" class="xiaoimg" />
+											<span>|</span>
+											<a href="javascript:;">蒙吉乐</a>
+											<span>|</span>
+											<a href="javascript:;">名友</a>
+											<span>|</span>
+											<a href="javascript:;">Add Mate</a>
+										</p>
+										<p class="xiaolei title">
+											<a href="javascript:;" class="xiao_biao">罐头湿粮</a>
+											<img src="img/nai.jpg" class="xiaoimg" />
+											<span>|</span>
+											<a href="javascript:;">罐头</a>
+											<span>|</span>
+											<a href="javascript:;">餐盆</a>
+											<span>|</span>
+											<a href="javascript:;">妙鲜包</a>
+											<span>|</span>
+											<a href="javascript:;">菲菲宝</a>
+										</p>
+										<p class="xiaolei title">
+											<a href="javascript:;" class="xiao_biao">梵米派</a>
+											<img src="img/nai.jpg" class="xiaoimg" />
+											<span>|</span>
+											<a href="javascript:;">出口级品质零食</a>
+										</p>
+									</div>
+									</div>
+									<div class="d">
+											<div class="dog3">
+											<p class="title">
+												<img class="titimg" src="img/gouwanju.jpg"/>
+												<span class="tmain">狗狗玩具</span>
+												<i class="xiabutt"></i><a class="dongtu" href="javascript:;">
+												<img src="img/wanjug.gif" alt="膳食一号超值满省" /></a>
+											</p>
+											<p class="xiaolei title">
+												<a href="javascript:;" class="xiao_biao">棉制玩具</a>
+												<img src="img/xiaoimg.jpg" class="xiaoimg" />
+												<span>|</span>
+												<a href="javascript:;">发声型</a>
+												<span>|</span>
+												<a href="javascript:;">非发声型</a>
+												<span>|</span>
+												<a href="javascript:;">小型犬</a>
+												<span>|</span>
+												<a href="javascript:;">大型犬</a>
+												<span>|</span>
+												<a href="javascript:;">梵米派</a>
+												<span>|</span>
+												<a href="javascript:;">酷极</a>
+											</p>
+											<p class="xiaolei title">
+												<a href="javascript:;" class="xiao_biao">橡胶玩具</a>
+												<img src="img/niunai.jpg" class="xiaoimg" />
+												<span>|</span>
+												<a href="javascript:;">发声型</a>
+												<span>|</span>
+												<a href="javascript:;">非发声型</a>
+												<span>|</span>
+												<a href="javascript:;">漏食型</a>
+												<span>|</span>
+												<a href="javascript:;">战斗鸡</a>
+												<span>|</span>
+												<a href="javascript:;">惨叫猪</a>
+												<span>|</span>
+												<a href="javascript:;">Nylabon</a>
+											</p>
+											<p class="xiaolei title">
+												<a href="javascript:;" class="xiao_biao">塑料玩具</a>
+												<img src="img/tuo.jpg" class="xiaoimg" />
+												<span>|</span>
+												<a href="javascript:;">发声型</a>
+												<span>|</span>
+												<a href="javascript:;">非发声型</a>
+												<span>|</span>
+												<a href="javascript:;">飞盘</a>
+												<span>|</span>
+												<a href="javascript:;">漏食玩具</a>
+												<span>|</span>
+												<a href="javascript:;">益智玩具</a>
+												<span>|</span>
+												<a href="javascript:;">意潇</a>
+											</p>
+											<p class="xiaolei title">
+												<a href="javascript:;" class="xiao_biao">手工玩具</a>
+												<img src="img/nai.jpg" class="xiaoimg" />
+												<span>|</span>
+												<a href="javascript:;">毛线小狗</a>
+												<span>|</span>
+												<a href="javascript:;">开心熊宝宝</a>
+												<span>|</span>
+												<a href="javascript:;">小小魔杖</a>
+												<span>|</span>
+												<a href="javascript:;">日本THE DOG</a>
+											</p>
+											<p class="xiaolei title">
+												<a href="javascript:;" class="xiao_biao">食用玩具</a>
+												<img src="img/nai.jpg" class="xiaoimg" />
+												<span>|</span>
+												<a href="javascript:;">憨八龟</a>
+												<span>|</span>
+												<a href="javascript:;">美丽花朵</a>
+												<span>|</span>
+												<a href="javascript:;">叔叔的靴子</a>
+												<span>|</span>
+												<a href="javascript:;">甜心胡萝卜 PETSTAGES</a>
+											</p>
+											<p class="xiaolei title">
+												<a href="javascript:;" class="xiao_biao">木质玩具</a>
+												<img src="img/nai.jpg" class="xiaoimg" />
+												<span>|</span>
+												<a href="javascript:;">美国进口</a>
+												<span>|</span>
+												<a href="javascript:;">迷宫</a>
+												<span>|</span>
+												<a href="javascript:;">战斗机</a>
+												<span>|</span>
+												<a href="javascript:;">Karlie</a>
+											</p>
+											<p class="xiaolei title">
+												<a href="javascript:;" class="xiao_biao">梵米派</a>
+												<img src="img/nai.jpg" class="xiaoimg" />
+												<span>|</span>
+												<a href="javascript:;">小丑帽</a>
+												<span>|</span>
+												<a href="javascript:;">灰色小熊</a>
+												<span>|</span>
+												<a href="javascript:;">史前飞天龙</a>
+												
+											</p>
+										</div>
+										<div class="dog3">
+											<p class="title">
+												<img class="titimg" src="img/titimg.jpg"/>
+												<span class="tmain">狗狗主粮</span>
+												<i class="xiabutt"></i><a class="dongtu" href="javascript:;">
+												<img src="img/jingpin.gif" alt="膳食一号超值满省" /></a>
+											</p>
+											<p class="xiaolei title">
+												<a href="javascript:;" class="xiao_biao">进口狗粮</a>
+												<img src="img/xiaoimg.jpg" class="xiaoimg" />
+												<span>|</span>
+												<a href="javascript:;">全犬粮</a>
+												<span>|</span>
+												<a href="javascript:;">幼犬粮</a>
+												<span>|</span>
+												<a href="javascript:;">成犬粮</a>
+												<span>|</span>
+												<a href="javascript:;">老犬粮</a>
+												<span>|</span>
+												<a href="javascript:;">安娜玛特</a>
+												<span>|</span>
+												<a href="javascript:;">海洋之星买赠</a>
+											</p>
+											<p class="xiaolei title">
+												<a href="javascript:;" class="xiao_biao">国产狗粮</a>
+												<img src="img/niunai.jpg" class="xiaoimg" />
+												<span>|</span>
+												<a href="javascript:;">全犬粮</a>
+												<span>|</span>
+												<a href="javascript:;">幼犬粮</a>
+												<span>|</span>
+												<a href="javascript:;">成犬粮</a>
+												<span>|</span>
+												<a href="javascript:;">老犬粮</a>
+												<span>|</span>
+												<a href="javascript:;">优卡</a>
+												<span>|</span>
+												<a href="javascript:;">雅美超值满省</a>
+											</p>
+											<p class="xiaolei title">
+												<a href="javascript:;" class="xiao_biao">散装狗粮</a>
+												<img src="img/tuo.jpg" class="xiaoimg" />
+												<span>|</span>
+												<a href="javascript:;">全犬粮</a>
+												<span>|</span>
+												<a href="javascript:;">幼犬粮</a>
+												<span>|</span>
+												<a href="javascript:;">成犬粮</a>
+												<span>|</span>
+												<a href="javascript:;">老犬粮</a>
+												<span>|</span>
+												<a href="javascript:;">小型犬粮</a>
+												<span>|</span>
+												<a href="javascript:;">进口拆穿</a>
+											</p>
+											<p class="xiaolei title">
+												<a href="javascript:;" class="xiao_biao">处方狗粮</a>
+												<img src="img/nai.jpg" class="xiaoimg" />
+												<span>|</span>
+												<a href="javascript:;">肠胃处方粮</a>
+												<span>|</span>
+												<a href="javascript:;">体重控制</a>
+												<span>|</span>
+												<a href="javascript:;">心肾保护</a>
+												<span>|</span>
+												<a href="javascript:;">泌尿护理</a>
+												<span>|</span>
+												<a href="javascript:;">特护营养</a>
+											</p>
+										</div>
+									</div>
+									<div class="e">
+										<div class="dog4">
+										<p class="title">
+											<img class="titimg" src="img/qingjie.jpg"/>
+											<span class="tmain">狗狗日用</span>
+											<i class="xiabutt"></i><a class="dongtu" href="javascript:;">
+											<img src="img/daodangui.gif" alt="膳食一号超值满省" /></a>
+										</p>
+										<p class="xiaolei title">
+											<a href="javascript:;" class="xiao_biao">狗狗餐具</a>
+											<img src="img/pen1.jpg" class="xiaoimg" />
+											<span>|</span>
+											<a href="javascript:;">食盆</a>
+											<span>|</span>
+											<a href="javascript:;">奶瓶</a>
+											<span>|</span>
+											<a href="javascript:;">饮水器</a>
+											<span>|</span>
+											<a href="javascript:;">储粮桶</a>
+											<span>|</span>
+											<a href="javascript:;">定时喂食器</a>
+											<span>|</span>
+											<a href="javascript:;">9折买1赠2</a>
+										</p>
+										<p class="xiaolei title">
+											<a href="javascript:;" class="xiao_biao">狗狗清洁</a>
+											<img src="img/qingjie.jpg" class="xiaoimg" />
+											<span>|</span>
+											<a href="javascript:;">厕所</a>
+											<span>|</span>
+											<a href="javascript:;">尿片</a>
+											<span>|</span>
+											<a href="javascript:;">湿巾</a>
+											<span>|</span>
+											<a href="javascript:;">清洁剂</a>
+											<span>|</span>
+											<a href="javascript:;">洗手液</a>
+										</p>
+										<p class="xiaolei title">
+											<a href="javascript:;" class="xiao_biao">狗狗外出</a>
+											<img src="img/hangkongxiang.jpg" class="xiaoimg" />
+											<span>|</span>
+											<a href="javascript:;">航空箱</a>
+											<span>|</span>
+											<a href="javascript:;">宠物包</a>
+											<span>|</span>
+											<a href="javascript:;">宠物车垫</a>
+											<span>|</span>
+											<a href="javascript:;">户外用品</a>
+											<span>|</span>
+											<a href="javascript:;">外出装备，最高省30!</a>
+										</p>
+										<p class="xiaolei title">
+											<a href="javascript:;" class="xiao_biao">狗狗住所</a>
+											<img src="img/zhusuo.jpg" class="xiaoimg" />
+											<span>|</span>
+											<a href="javascript:;">卡通系列窝</a>
+											<span>|</span>
+											<a href="javascript:;">经典南瓜窝</a>
+											<span>|</span>
+											<a href="javascript:;">棉垫</a>
+										</p>
+										<p class="xiaolei title">
+											<a href="javascript:;" class="xiao_biao">狗狗训练</a>
+											<img src="img/xunlian.jpg" class="xiaoimg" />
+											<span>|</span>
+											<a href="javascript:;">禁区喷</a>
+											<span>|</span>
+											<a href="javascript:;">爱心拍</a>
+											<span>|</span>
+											<a href="javascript:;">排便诱导</a>
+											<span>|</span>
+											<a href="javascript:;">行为纠正</a>
+											<span>|</span>
+											<a href="javascript:;">让爱犬听话的法宝</a>
+										</p>
+										<p class="xiaolei title">
+											<a href="javascript:;" class="xiao_biao">爱丽思</a>
+											<img src="img/fangzi.jpg" class="xiaoimg" />
+											<span>|</span>
+											<a href="javascript:;">浴盆</a>
+											<span>|</span>
+											<a href="javascript:;">厕所</a>
+											<span>|</span>
+											<a href="javascript:;">笼子</a>
+											<span>|</span>
+											<a href="javascript:;">围栏</a>
+											<span>|</span>
+											<a href="javascript:;">航空箱</a>
+										</p>
+									</div>
+									</div>
+									<div class="f">
+										<div class="dog5">
+										<p class="title">
+											<img class="titimg" src="img/goulingshi.jpg"/>
+											<span class="tmain">狗狗零食</span>
+											<i class="xiabutt"></i><a class="dongtu" href="javascript:;">
+											<img src="img/title1.gif" alt="膳食一号超值满省" /></a>
+										</p>
+										<p class="xiaolei title">
+											<a href="javascript:;" class="xiao_biao">磨牙洁齿</a>
+											<img src="img/xiaoimg.jpg" class="xiaoimg" />
+											<span>|</span>
+											<a href="javascript:;">真骨类</a>
+											<span>|</span>
+											<a href="javascript:;">咬胶类</a>
+											<span>|</span>
+											<a href="javascript:;">饼干类</a>
+											<span>|</span>
+											<a href="javascript:;">其他</a>
+											<span>|</span>
+											<a href="javascript:;">禾仕嘉</a>
+											<span>|</span>
+										</p>
+										<p class="xiaolei title">
+											<a href="javascript:;" class="xiao_biao">肉质零食</a>
+											<img src="img/niunai.jpg" class="xiaoimg" />
+											<span>|</span>
+											<a href="javascript:;">鸡肉</a>
+											<span>|</span>
+											<a href="javascript:;">牛肉</a>
+											<span>|</span>
+											<a href="javascript:;">鱼肉</a>
+											<span>|</span>
+											<a href="javascript:;">羊肉</a>
+											<span>|</span>
+											<a href="javascript:;">鹿肉</a>
+											<span>|</span>
+											<a href="javascript:;">鸭肉</a>
+											<span>|</span>
+											<a href="javascript:;">顽皮</a>
+										</p>
+										<p class="xiaolei title">
+											<a href="javascript:;" class="xiao_biao">奶酪布丁</a>
+											<img src="img/tuo.jpg" class="xiaoimg" />
+											<span>|</span>
+											<a href="javascript:;">蒙吉乐</a>
+											<span>|</span>
+											<a href="javascript:;">名友</a>
+											<span>|</span>
+											<a href="javascript:;">Add Mate</a>
+										</p>
+										<p class="xiaolei title">
+											<a href="javascript:;" class="xiao_biao">罐头湿粮</a>
+											<img src="img/nai.jpg" class="xiaoimg" />
+											<span>|</span>
+											<a href="javascript:;">罐头</a>
+											<span>|</span>
+											<a href="javascript:;">餐盆</a>
+											<span>|</span>
+											<a href="javascript:;">妙鲜包</a>
+											<span>|</span>
+											<a href="javascript:;">菲菲宝</a>
+										</p>
+										<p class="xiaolei title">
+											<a href="javascript:;" class="xiao_biao">梵米派</a>
+											<img src="img/nai.jpg" class="xiaoimg" />
+											<span>|</span>
+											<a href="javascript:;">出口级品质零食</a>
+										</p>
+									</div>
+									<div class="dog5">
+										<p class="title">
+											<img class="titimg" src="img/titimg.jpg"/>
+											<span class="tmain">狗狗主粮</span>
+											<i class="xiabutt"></i><a class="dongtu" href="javascript:;">
+											<img src="img/jingpin.gif" alt="膳食一号超值满省" /></a>
+										</p>
+										<p class="xiaolei title">
+											<a href="javascript:;" class="xiao_biao">进口狗粮</a>
+											<img src="img/xiaoimg.jpg" class="xiaoimg" />
+											<span>|</span>
+											<a href="javascript:;">全犬粮</a>
+											<span>|</span>
+											<a href="javascript:;">幼犬粮</a>
+											<span>|</span>
+											<a href="javascript:;">成犬粮</a>
+											<span>|</span>
+											<a href="javascript:;">老犬粮</a>
+											<span>|</span>
+											<a href="javascript:;">安娜玛特</a>
+											<span>|</span>
+											<a href="javascript:;">海洋之星买赠</a>
+										</p>
+										<p class="xiaolei title">
+											<a href="javascript:;" class="xiao_biao">国产狗粮</a>
+											<img src="img/niunai.jpg" class="xiaoimg" />
+											<span>|</span>
+											<a href="javascript:;">全犬粮</a>
+											<span>|</span>
+											<a href="javascript:;">幼犬粮</a>
+											<span>|</span>
+											<a href="javascript:;">成犬粮</a>
+											<span>|</span>
+											<a href="javascript:;">老犬粮</a>
+											<span>|</span>
+											<a href="javascript:;">优卡</a>
+											<span>|</span>
+											<a href="javascript:;">雅美超值满省</a>
+										</p>
+										<p class="xiaolei title">
+											<a href="javascript:;" class="xiao_biao">散装狗粮</a>
+											<img src="img/tuo.jpg" class="xiaoimg" />
+											<span>|</span>
+											<a href="javascript:;">全犬粮</a>
+											<span>|</span>
+											<a href="javascript:;">幼犬粮</a>
+											<span>|</span>
+											<a href="javascript:;">成犬粮</a>
+											<span>|</span>
+											<a href="javascript:;">老犬粮</a>
+											<span>|</span>
+											<a href="javascript:;">小型犬粮</a>
+											<span>|</span>
+											<a href="javascript:;">进口拆穿</a>
+										</p>
+										<p class="xiaolei title">
+											<a href="javascript:;" class="xiao_biao">处方狗粮</a>
+											<img src="img/nai.jpg" class="xiaoimg" />
+											<span>|</span>
+											<a href="javascript:;">肠胃处方粮</a>
+											<span>|</span>
+											<a href="javascript:;">体重控制</a>
+											<span>|</span>
+											<a href="javascript:;">心肾保护</a>
+											<span>|</span>
+											<a href="javascript:;">泌尿护理</a>
+											<span>|</span>
+											<a href="javascript:;">特护营养</a>
+										</p>
+									</div>
+									
+										
+										
+										
+										
+									</div>
+									<div class="g">
+										<div class="dog6">
+										<p class="title">
+											<img class="titimg" src="img/gouwanju.jpg"/>
+											<span class="tmain">狗狗玩具</span>
+											<i class="xiabutt"></i><a class="dongtu" href="javascript:;">
+											<img src="img/wanjug.gif" alt="膳食一号超值满省" /></a>
+										</p>
+										<p class="xiaolei title">
+											<a href="javascript:;" class="xiao_biao">棉制玩具</a>
+											<img src="img/xiaoimg.jpg" class="xiaoimg" />
+											<span>|</span>
+											<a href="javascript:;">发声型</a>
+											<span>|</span>
+											<a href="javascript:;">非发声型</a>
+											<span>|</span>
+											<a href="javascript:;">小型犬</a>
+											<span>|</span>
+											<a href="javascript:;">大型犬</a>
+											<span>|</span>
+											<a href="javascript:;">梵米派</a>
+											<span>|</span>
+											<a href="javascript:;">酷极</a>
+										</p>
+										<p class="xiaolei title">
+											<a href="javascript:;" class="xiao_biao">橡胶玩具</a>
+											<img src="img/niunai.jpg" class="xiaoimg" />
+											<span>|</span>
+											<a href="javascript:;">发声型</a>
+											<span>|</span>
+											<a href="javascript:;">非发声型</a>
+											<span>|</span>
+											<a href="javascript:;">漏食型</a>
+											<span>|</span>
+											<a href="javascript:;">战斗鸡</a>
+											<span>|</span>
+											<a href="javascript:;">惨叫猪</a>
+											<span>|</span>
+											<a href="javascript:;">Nylabon</a>
+										</p>
+										<p class="xiaolei title">
+											<a href="javascript:;" class="xiao_biao">塑料玩具</a>
+											<img src="img/tuo.jpg" class="xiaoimg" />
+											<span>|</span>
+											<a href="javascript:;">发声型</a>
+											<span>|</span>
+											<a href="javascript:;">非发声型</a>
+											<span>|</span>
+											<a href="javascript:;">飞盘</a>
+											<span>|</span>
+											<a href="javascript:;">漏食玩具</a>
+											<span>|</span>
+											<a href="javascript:;">益智玩具</a>
+											<span>|</span>
+											<a href="javascript:;">意潇</a>
+										</p>
+										<p class="xiaolei title">
+											<a href="javascript:;" class="xiao_biao">手工玩具</a>
+											<img src="img/nai.jpg" class="xiaoimg" />
+											<span>|</span>
+											<a href="javascript:;">毛线小狗</a>
+											<span>|</span>
+											<a href="javascript:;">开心熊宝宝</a>
+											<span>|</span>
+											<a href="javascript:;">小小魔杖</a>
+											<span>|</span>
+											<a href="javascript:;">日本THE DOG</a>
+										</p>
+										<p class="xiaolei title">
+											<a href="javascript:;" class="xiao_biao">食用玩具</a>
+											<img src="img/nai.jpg" class="xiaoimg" />
+											<span>|</span>
+											<a href="javascript:;">憨八龟</a>
+											<span>|</span>
+											<a href="javascript:;">美丽花朵</a>
+											<span>|</span>
+											<a href="javascript:;">叔叔的靴子</a>
+											<span>|</span>
+											<a href="javascript:;">甜心胡萝卜 PETSTAGES</a>
+										</p>
+										<p class="xiaolei title">
+											<a href="javascript:;" class="xiao_biao">木质玩具</a>
+											<img src="img/nai.jpg" class="xiaoimg" />
+											<span>|</span>
+											<a href="javascript:;">美国进口</a>
+											<span>|</span>
+											<a href="javascript:;">迷宫</a>
+											<span>|</span>
+											<a href="javascript:;">战斗机</a>
+											<span>|</span>
+											<a href="javascript:;">Karlie</a>
+										</p>
+										<p class="xiaolei title">
+											<a href="javascript:;" class="xiao_biao">梵米派</a>
+											<img src="img/nai.jpg" class="xiaoimg" />
+											<span>|</span>
+											<a href="javascript:;">小丑帽</a>
+											<span>|</span>
+											<a href="javascript:;">灰色小熊</a>
+											<span>|</span>
+											<a href="javascript:;">史前飞天龙</a>
+											
+										</p>
+									</div>
+									<div class="dog7">
+										<p class="title">
+											<img class="titimg" src="img/titimg.jpg"/>
+											<span class="tmain">狗狗主粮</span>
+											<i class="xiabutt"></i><a class="dongtu" href="javascript:;">
+											<img src="img/jingpin.gif" alt="膳食一号超值满省" /></a>
+										</p>
+										<p class="xiaolei title">
+											<a href="javascript:;" class="xiao_biao">进口狗粮</a>
+											<img src="img/xiaoimg.jpg" class="xiaoimg" />
+											<span>|</span>
+											<a href="javascript:;">全犬粮</a>
+											<span>|</span>
+											<a href="javascript:;">幼犬粮</a>
+											<span>|</span>
+											<a href="javascript:;">成犬粮</a>
+											<span>|</span>
+											<a href="javascript:;">老犬粮</a>
+											<span>|</span>
+											<a href="javascript:;">安娜玛特</a>
+											<span>|</span>
+											<a href="javascript:;">海洋之星买赠</a>
+										</p>
+										<p class="xiaolei title">
+											<a href="javascript:;" class="xiao_biao">国产狗粮</a>
+											<img src="img/niunai.jpg" class="xiaoimg" />
+											<span>|</span>
+											<a href="javascript:;">全犬粮</a>
+											<span>|</span>
+											<a href="javascript:;">幼犬粮</a>
+											<span>|</span>
+											<a href="javascript:;">成犬粮</a>
+											<span>|</span>
+											<a href="javascript:;">老犬粮</a>
+											<span>|</span>
+											<a href="javascript:;">优卡</a>
+											<span>|</span>
+											<a href="javascript:;">雅美超值满省</a>
+										</p>
+										<p class="xiaolei title">
+											<a href="javascript:;" class="xiao_biao">散装狗粮</a>
+											<img src="img/tuo.jpg" class="xiaoimg" />
+											<span>|</span>
+											<a href="javascript:;">全犬粮</a>
+											<span>|</span>
+											<a href="javascript:;">幼犬粮</a>
+											<span>|</span>
+											<a href="javascript:;">成犬粮</a>
+											<span>|</span>
+											<a href="javascript:;">老犬粮</a>
+											<span>|</span>
+											<a href="javascript:;">小型犬粮</a>
+											<span>|</span>
+											<a href="javascript:;">进口拆穿</a>
+										</p>
+										<p class="xiaolei title">
+											<a href="javascript:;" class="xiao_biao">处方狗粮</a>
+											<img src="img/nai.jpg" class="xiaoimg" />
+											<span>|</span>
+											<a href="javascript:;">肠胃处方粮</a>
+											<span>|</span>
+											<a href="javascript:;">体重控制</a>
+											<span>|</span>
+											<a href="javascript:;">心肾保护</a>
+											<span>|</span>
+											<a href="javascript:;">泌尿护理</a>
+											<span>|</span>
+											<a href="javascript:;">特护营养</a>
+										</p>
+									</div>
+								</div>
+								</div>
+								<!--<div class="dog_r">
+									<div class="dog_r_t">
+										<div class="hot1">
+											<p class="hot"></p>
+											<p class=""></p>
+										</div>
+									</div>
+								</div>-->
+								<div style="clear: both;"></div>
+							</div>
+							<div style="clear: both;"></div>
+						</div>
+					</ul>
+					<div class="botright">
+						<a href="javascript:;">全球特卖</a>
+						<a href="pavilion.html">国家馆</a>
+						<a href="javascript:;">服饰城</a>
+						<a href="javascript:;"><span class="btrs"></span>热卖礼包</a>
+						<a href="javascript:;"><span class="btrs"></span>E宠学堂</a>
+						<a class="shiyong" href="javascript:;"><span class="btrs"></span>试用中心<img src="img/new (2).gif"/></a>
+						<a href="javascript:;"><span class="btrs"></span>清仓特卖</a>
+					</div>
+				</div>
+			</div>

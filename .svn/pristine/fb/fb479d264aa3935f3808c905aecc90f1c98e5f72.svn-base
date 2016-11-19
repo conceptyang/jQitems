@@ -1,0 +1,169 @@
+#login #loginHeader{
+	border-bottom: 1px solid #ddd;
+}
+#login a:hover{
+	color: skyblue;
+}
+#login #loginHeader .logCenter{
+	width: 1100px;
+	padding: 10px 0 30px 0;
+	margin: 0 auto;
+	overflow: hidden;
+	
+}
+#login #loginHeader .register_logo img{
+	vertical-align: middle;
+}
+#login #loginHeader .header_right{
+	margin: 13px 15px 0 0;
+}
+#login #loginHeader .header_right a{
+	display: inline-block;
+}
+#login #login-mian{
+	width: 100%;
+	height: 628px;
+	background:url(../img/logbg5.png) no-repeat ;
+}
+#login #login-mian .logCenter{
+	position: relative;
+	height: 100%;
+	width:1100px;
+	margin: 0 auto;
+}
+#login #login-mian .logCenter .denglu-box{
+	position: absolute;
+	top:15px;
+	right: 5px;
+	width: 340px;
+	padding: 0 36px 30px;
+	background: #fff;
+}
+#login #login-mian .logCenter .denglu-box .dlbox-top #putong{
+	cursor: pointer;
+	border-bottom:1px solid #33cb98;
+}
+#login #login-mian .logCenter .denglu-box .dlbox-top #dongtai{
+	cursor: pointer;
+	border-bottom:1px solid #ddd;
+}
+#login #login-mian .logCenter .denglu-box .dlbox-top{
+	overflow: hidden;
+}
+#login #login-mian .logCenter .denglu-box .dlbox-top span{
+	display: inline-block;
+	height: 67px;
+    line-height: 80px;
+    width: 50%;
+    float: left;
+    text-align: center;
+    font-size: 14px;
+}
+#login #login-mian .logCenter .denglu-box .dlbox-mid{
+	margin-top: 20px;
+}
+#login #login-mian .logCenter .denglu-box .dlbox-mid .dt{
+	display: none;
+}
+#login #login-mian .logCenter .denglu-box .dlbox-mid .user{
+	border: #ddd solid 1px;
+    height: 45px;
+    line-height: 45px;
+    margin: 20px 0 0 0;
+    padding: 0 0 0 15px;
+}
+#login #login-mian .logCenter .denglu-box .dlbox-mid .user .Udericon{
+	display: inline-block;
+	width: 23px;
+	height: 19px;
+	vertical-align: middle;
+	background:url(../img/login.png) no-repeat ;
+}
+#login #login-mian .logCenter .denglu-box .dlbox-mid .user .pwdicon{
+	display: inline-block;
+	width: 23px;
+	height: 19px;
+	vertical-align: middle;
+	background:url(../img/login.png) 0 -28px no-repeat ;
+}
+#login #login-mian .logCenter .denglu-box .dlbox-mid .Uderedicon{
+	display: inline-block;
+	width: 23px;
+	height: 19px;
+	vertical-align: middle;
+	background:url(../img/loginicon.png) 0 -37px no-repeat;
+}
+#login #login-mian .logCenter .denglu-box.Uderedicon{
+	background-position:0 -68px;
+}
+#login #login-mian .logCenter .denglu-box .dlbox-mid .verify{
+	width: 205px;
+	float: left;
+}
+
+#login #login-mian .logCenter .denglu-box .dlbox-mid .verifyimg{
+	margin-top: 20px;
+    width: 100px;
+    height: 47px;
+    padding: 0px;
+    overflow: hidden;
+    float: right;
+    background: url(../img/seccode.png) no-repeat;
+}
+#login #login-mian .logCenter .denglu-box .dlbox-mid .yz{
+	background-position: 0 -11px;
+}
+#login #login-mian .logCenter .denglu-box .dlbox-mid .verifydtm{
+	margin-top: 20px;
+    width: 100px;
+    height: 47px;
+    text-align: center;
+    line-height:47px;
+    padding: 0px;
+   	float: right;
+   	border-radius: 5px;
+    border: 1px solid #33cb98;
+}
+#login #login-mian .logCenter .denglu-box .dlbox-bot .Loginbtn{
+	background: #33cb98;
+    width: 100%;
+    height: 50px;
+    line-height: 50px;
+    border-radius: 5px;
+    margin: 20px 0 15px;
+    display: inline-block;
+}
+#login #login-mian .Heuzouicolist a{
+	display: inline-block;
+	width: 23px;
+	height: 19px;
+	vertical-align: middle;
+	margin-right: 10px;
+	background: url(../img/hezuo.png) no-repeat;
+}
+#login #login-mian .denglu-box .dlbox-bot .Qqico{
+	background-position: 0 -86px;
+}   
+#login #login-mian .denglu-box .dlbox-bot .Zhifuico{
+	background-position: 0 -170px;
+}
+#login #login-mian .denglu-box .dlbox-bot .Huofuuico{
+	background-position: 0 -116px;
+}
+#login #login-mian .denglu-box .dlbox-bot .Weixinico{
+	background-position: 0 -143px;
+}
+
+
+
+
+
+#login-bot .login-footer{
+	width: 820px;
+    padding: 70px 0;
+    margin: 0 auto;
+    text-align: center
+}
+#login-bot .login-footer a:hover{
+	color: skyblue;
+}

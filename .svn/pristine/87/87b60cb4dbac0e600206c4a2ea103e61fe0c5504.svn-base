@@ -1,0 +1,217 @@
+<div class="h_banner">
+	<div class="bannerbox">
+
+		<div class="bannerf" bgc="#8d02de" style="display: block;">
+			<a class="banner1" href="javascript:;">
+				<img src="img/1.jpg" />
+			</a>
+		</div>
+		<div class="banner" bgc="#FF4D4B">
+			<a class="banner2" href="javascript:;">
+				<img src="img/2.jpg" />
+			</a>
+		</div>
+		<div class="banner" bgc="#8d02de">
+			<a class="banner3" href="javascript:;">
+				<img src="img/3.jpg" />
+			</a>
+		</div>
+		<div class="banner" bgc="#8d02de">
+			<a class="banner4" href="javascript:;">
+				<img src="img/4.jpg" />
+			</a>
+		</div>
+		<div class="banner" bgc="#8d02de">
+			<a class="banner5" href="javascript:;">
+				<img src="img/5.jpg" />
+			</a>
+		</div>
+		<div class="banner" bgc="#8d02de">
+			<a class="banner6" href="javascript:;">
+				<img src="img/6.jpg" />
+			</a>
+		</div>
+		<div class="banner" bgc="#8d02de">
+			<a class="banner7" href="javascript:;">
+				<img src="img/7.jpg" />
+			</a>
+		</div>
+		<ul>
+			<li>1</li>
+			<li>2</li>
+			<li>3</li>
+			<li>4</li>
+			<li>5</li>
+			<li>6</li>
+			<li>7</li>
+		</ul>
+	</div>
+	<div class="banner-rightbox">
+		<div class="Center">
+			<div class="banner-right">
+				<div class="br">
+					<a href="javascropt:;"><img src='img/tianhengbao.jpg' /></a>
+				</div>
+				<div class="br">
+					<a href="javascropt:;"><img src='img/biruiji.jpg' /></a>
+				</div>
+				<div>
+					<a href="javascropt:;"><img src='img/wanpilingshi.jpg' /></a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="Center">
+	<div class="jingxi">
+		<div class="jingxi-left">
+			<div class="jingxi-box">
+				<div class="left-top">
+					<img src="img/surprise-tit.png" />
+				</div>
+				<div class="left-middle">
+					距本场结束还有
+				</div>
+				<div class="timelast">
+					<div class="time1">
+						<span id="times0">
+								<span class="time1-1">
+									<i>0</i><i>0</i>
+								</span>
+						<span class="time-zi" style="color: #fff;">:</span>
+						<span class="time1-1">
+									<i>5</i><i>4</i>
+								</span>
+						<span class="time-zi" style="color: #fff;">:</span>
+						<span class="time1-1">
+									<i>5</i><i>8</i>
+								</span>
+						</span>
+						<span id="t0" style="display: none;" name="1">2016-11-07 19:00:00</span>
+					</div>
+				</div>
+				<div class="thistime">
+					15:00
+					<span class="chang"></span>
+				</div>
+				<div class="left-bot">
+					进行中...
+				</div>
+			</div>
+
+		</div>
+		<div class="jingxi-right">
+			<div class="jxr-top">
+				<div class="watch">
+					<p>09:00</p>
+					<p>已结束</p>
+					<span></span>
+				</div>
+				<div class="watch">
+					<p>11:00</p>
+					<p>已结束</p>
+					<span></span>
+				</div>
+				<div class="watch">
+					<p>13:00</p>
+					<p>已结束</p>
+					<span></span>
+				</div>
+				<div class="watch">
+					<p>15:00</p>
+					<p>已结束</p>
+					<span></span>
+				</div>
+				<div class="watch">
+					<p>19:00</p>
+					<p>已结束</p>
+					<span></span>
+				</div>
+				<div class="watch">
+					<p>21:00</p>
+					<p>已结束</p>
+					<span></span>
+				</div>
+				<div class="watch">
+					<p>明日</p>
+					<p>预告</p>
+					<span></span>
+				</div>
+			</div>
+			<div class="jxr-bottom">
+			</div>
+		</div>
+	</div>
+	<div class="xpcx">
+		<div class="xpcx_left">
+			<img src="img/ad-img1.jpg">
+			<div class="absolute-bg" style="background:#ed499b;filter: alpha(opacity=80); opacity: 0.8;-moz-opacity: 0.8;"></div>
+			<div class="absolute-box">
+				<div class="box-xp">新品尝鲜</div>
+				<div class="ftc ft12 cfff">
+					<a target="_blank" href="http://www.epet.com/new" style="color: white"> 上架新品976件&gt;&gt;</a>
+				</div>
+				<div class="ftc mt5"><img src="img/fgline.png"></div>
+				<div class="ftc cfff mt5">毛****比 第329个尝鲜的人，获得商品折扣 </div>
+				<div class="ftc cfff"><span class="ft20">9.1</span>折</div>
+				<div class="ftc">
+					<a target="_blank" href="http://www.epet.com/new">进入尝鲜栏目&gt;&gt;</a>
+				</div>
+			</div>
+		</div>
+		<div class="xpcx_right">
+			<ul class="clearfix">
+				<a title="K9 顶级大厨 天然烤鹿肺狗零食200g" target="_blank" href="http://www.epet.com/new">
+					<li class="fl">
+						<div class="font-intro">
+							<h1 class="ft14 c333">K9 顶级大厨 天然烤鹿肺狗零食200g</h1>
+							<p title="天然烘烤，香醇口感，优质蛋白，吃出健康。" class="c999 ft12">天然烘烤，香醇口感，优质蛋白，吃出健康。</p>
+							<div class="mt ft14 ">¥25.00</div>
+							<div class="reason mt20 overflow">
+								<p class="mt5">低脂肪无添加</p>
+								<p class="mt5">天然肉质香醇可口</p>
+							</div>
+						</div>
+						<div class="new-proimg rela">
+							<div class="new-img"><img src="img/dizhi.jpg"></div>
+						</div>
+					</li>
+				</a>
+				<a title="法国进口FoOlee Easee系列 中型犬自动脱毛梳子 紫色 梳面宽65mm" target="_blank" href="http://www.epet.com/new">
+					<li class="fl">
+						<div class="font-intro">
+							<h1 class="ft14 c333">法国进口FoOlee Easee系列 中型犬自动脱毛梳子 紫色 梳面宽65mm</h1>
+							<p title="是时候换梳毛姿势啦！法国FoOlee自动脱毛梳，轻松去除脱毛、掉毛，从未有过的梳理体验。用一次，让你远离“毛”困扰。
+	" class="c999 ft12">是时候换梳毛姿势啦！法国FoOlee自动脱毛梳，轻松去除脱毛、掉毛，从未有过的梳理体验。用一次，让你远离“毛”困扰。
+							</p>
+							<div class="mt ft14">¥183.00</div>
+							<div class="reason mt20 overflow">
+								<p class="mt5">自动梳理新体验</p>
+								<p class="mt5">轻松去死毛掉毛</p>
+							</div>
+						</div>
+						<div class="new-proimg rela">
+							<div class="new-img"><img src="img/dizhi.jpg"></div>
+						</div>
+					</li>
+				</a>
+				<a title="乐宝LeBo 肠乐康益生菌 12袋/盒" target="_blank" href="http://www.epet.com/new">
+					<li class="fl">
+						<div class="font-intro">
+							<h1 class="ft14 c333">乐宝LeBo 肠乐康益生菌 12袋/盒</h1>
+							<p title="" class="ft12"></p>
+							<div class="mt ft14 cred">¥80.00</div>
+							<div class="reason mt20 overflow">
+								<p class="mt5">快速改善肠道不适</p>
+								<p class="mt5">提升活力激活免疫</p>
+							</div>
+						</div>
+						<div class="new-proimg rela">
+							<div class="new-img"><img src="img/dizhi.jpg"></div>
+						</div>
+					</li>
+				</a>
+			</ul>
+		</div>
+	</div>
+</div>

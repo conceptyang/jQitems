@@ -1,0 +1,90 @@
+<!--边栏-->
+
+<div class="sidebar-top"></div>
+<ul class="sidebar-up">
+	<li class="sdb inLi">
+		<div class="inLibox">
+			<div class="inLiboxbg">
+				您还没有登录，请先<a href="http://passport.gutou.com" style="text-decoration: underline;color: red;">登录</a>
+			</div>
+			
+		</div>
+		<a href="javascript:;" class="sidebarico inLi-my"></a>
+	</li>
+	<li class="sdb scart">
+		<div class="scart-left">
+			<div class="scart-leftmain">您的购物车中暂无商品，赶快选择心爱的商品吧！</div>
+			<a class="scartbtn"><span>取出寄存的商品</span></a>
+		</div>
+		<a href="shoppingcar.html" class="sidebarico scart-my"></a>
+	</li>
+	<li class="sdb dingdan">
+		<div class="tan-left">
+			我的订单
+			<span class="jiao">◆</span>
+		</div>
+		<a href="javascript:;" class="sidebarico dingdan-my"></a>
+	</li>
+	<li class="sdb xiaoxi">
+		<div class="tan-left">
+			我的消息
+			<span class="jiao">◆</span>
+		</div>
+		<a href="javascript:;" class="sidebarico xiaoxi-my"></a>
+	</li>
+	<li class="sdb shoucang">
+		<div class="shoucang-left">
+			<div class="left-tit">
+				<div class="liulantop">
+				<span>我浏览过</span></div>
+				<p class="chushi">没有已浏览商品</p>
+				<ul class="liulan">
+				</ul>
+			</div>
+			<div class="left-bot">
+				<div class="shoucangtit">
+				<span class="ll">我浏览过</span>
+				<span class="lr">更多>></span>
+				</div>
+				<p class="sccs"><a href="https://passport.gutou.com/login.html">登录</a>后可显示收藏</p>
+				<ul class="shoucang-deng">
+				</ul>
+			</div>
+		</div>
+		<a href="javascript:;" class="sidebarico shoucang-my"></a>
+	</li>
+	<li class="sdb zixun">
+		<div class="tan-left">
+			我要咨询
+			<span class="jiao">◆</span>
+		</div>
+		<a href="javascript:;" class="sidebarico zixun-my"></a>
+	</li>
+	<li class="sdb shouji">
+		<div class="tan-left">
+			手机端下载
+			<span class="jiao">◆</span>
+		</div>
+		<a href="javascript:;" class="sidebarico shouji-my"></a>
+	</li>
+	<li class="sdb fankui">
+		<div class="tan-left">
+			我的反馈
+			<span class="jiao">◆</span>
+		</div>
+		<a href="javascript:;" class="sidebarico fankui-my"></a>
+	</li> 
+	<li class="sdb guanwei">
+		<span class="guanwei-left"></span>
+		<a href="javascript:;" class="sidebarico guanwei-my"></a>
+	</li>
+	<li class="sdb gettop">
+		<div class="tan-left">
+			返回顶部
+			<span class="jiao">◆</span>
+		</div>
+		<a style="margin-bottom: 0;" href="javascript:;" class="sidebarico gettop-my"></a>
+	</li>
+	
+</ul>
+<div class="sidebar-bottom"></div>

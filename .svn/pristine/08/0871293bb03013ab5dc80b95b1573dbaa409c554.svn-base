@@ -1,0 +1,161 @@
+#register #registerHeader{
+	border-bottom: 1px solid #ddd;
+}
+#register #registerHeader .reCenter{
+	width: 1100px;
+	padding: 10px 0 30px 0;
+	margin: 0 auto;
+	overflow: hidden;
+	
+}
+#register #registerHeader .register_logo img{
+	vertical-align: middle;
+}
+#register #registerHeader .header_right{
+	margin: 13px 15px 0 0;
+}
+#register .registerMain .Main-center{
+	width: 1100px;
+	margin: 0 auto;
+	padding-top: 55px;
+	border-bottom: #ddd solid 1px;
+}
+#register .registerMain .Main-center .register-box{
+	width: 516px;
+   	margin-left: 200px;
+   
+}
+#register .registerMain .Main-center .register-box span{
+	width: 96px;
+	display: inline-block;
+	font-size: 16px;
+	text-align: right;
+}
+#register .registerMain .Main-center .register-box input{
+	vertical-align: middle;
+	border: #ddd solid 1px;
+    height: 52px;
+    border-radius: 5px;
+    width: 412px;
+    color: #999;
+    text-indent: 16px;
+    font-size: 14px;
+	
+}
+#register .registerMain .Main-center .register-box .zuoce{
+	position: relative;
+}
+#register .registerMain .Main-center .register-box .zuoce .success{
+	position: absolute;
+	top: 15px;
+	right: 30px;
+	display: none;
+}
+#register .registerMain .Main-center .register-box .mobile .reminder{
+	position: absolute;
+	width: 150px;
+	font-size: 12px;
+    left: 520px;
+    top: 0;
+   	padding: 0 10px;
+    height: 54px;
+    line-height: 54px;
+    background: #fff3d9;
+    color: #ff6f4a;
+    display: none;
+}
+#register .registerMain .Main-center .register-box .yanzhengma .success{
+	right:230px ;
+	
+}
+
+#register .registerMain .Main-center .register-box .yanzhengma .ma{
+	float: right;
+	width: 185px;
+	height: 55px;
+	margin-right: 20px;
+	overflow: hidden;
+	border: #ddd solid 1px;
+	border-radius:10px;
+}
+#register .registerMain .Main-center .register-box .yanzhengma .change{
+	float: left;
+}
+#register .registerMain .Main-center .register-box .yanzhengma .change img{
+	width: 86px;
+	height: 55px;
+}
+#register .registerMain .Main-center .register-box .yanzhengma .huan{
+	float: right;
+	width: 88px;
+	height: 55px;
+	line-height: 55px;
+    border-radius: 0 10px 10px 0;
+    border-left: #ddd solid 1px;
+    padding-left:10px ;
+}
+#register .registerMain .Main-center .register-box .yanzhengma .huan span{
+	width: 55px;
+	
+}
+#register .registerMain .Main-center .register-box .yanzhengma .reminder{
+	position: absolute;
+	width: 150px;
+	font-size: 12px;
+    left: 520px;
+    top: 0;
+   	padding: 0 10px;
+    height: 54px;
+    line-height: 54px;
+    background: #fff3d9;
+    color: #ff6f4a;
+    display: none;
+}
+#register .registerMain .Main-center .register-box .duanxin .success{
+	right:175px ;
+}
+#register .registerMain .Main-center .register-box .duanxin .huoqu{
+	float: right;
+	width: 149px;
+    border: #33cb98 solid 1px;
+    height: 55px;
+    border-radius:10px ;
+    text-align: center;
+    line-height: 55px;
+}
+#register .registerMain .Main-center .register-box .pwdqiandu{
+	height: 20px;
+	padding-left:100px ;
+	margin-bottom: 10px;
+}
+#register .registerMain .Main-center .register-box .pwdqiandu input{
+	width: 13px;
+	height: 13px;
+}
+#register .registerMain .Main-center .register-box .pwdqiandu span{
+	font-size: 14px;
+	display: inline;
+}
+#registerbtn{
+	border-radius: 5px;
+    background: #459D36;
+    width: 413px;
+    height: 52px;
+    line-height: 52px;
+    margin: 15px 0 50px 100px;
+    display: inline-block;
+    color: #fff;
+    cursor: pointer;
+}
+
+#register-bot .register-footer{
+	width: 820px;
+    padding: 70px 0;
+    margin: 0 auto;
+    text-align: center
+}
+#register-bot .register-footer a:hover{
+	color: skyblue;
+}
+
+

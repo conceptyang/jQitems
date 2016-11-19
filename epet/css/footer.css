@@ -1,0 +1,142 @@
+#foot .footerTop{
+	
+	width: 100%;
+	padding: 40px 0 20px;
+	background: #F5F5F5
+}
+#foot .fTm{
+	background: #459d36;
+	padding: 40px 0 20px;
+}
+#foot .footTmT{
+	margin-left: 55px;
+	padding-bottom: 25px;
+	border-bottom: 1px dotted #76b36d;
+	overflow: hidden;
+}
+#foot .footTmT a{
+	display: block;
+	width: 120px;
+	height: 120px;
+	background: #edffe9;
+	text-align: center;
+	line-height: 120px;
+	border-radius: 50%;
+}
+#foot .footTmT li{
+	float: left;
+	margin-right: 70px;
+    float: left;
+    width: 120px;
+}
+#foot .footTmT li span{
+	background: url(../img/q-ico.png) no-repeat ;
+	width:60px;
+	height: 68px;
+	display: inline-block;
+	margin-top: 30px;
+}
+#foot .footTmT li .hh{
+	background-position: 0 -60px;
+}
+#foot .footTmT li .ck{
+	background-position: 0 -136px;
+}
+#foot .footTmT li .ps{
+	background-position: 0 -203px;
+}
+#foot .footTmT li .bs{
+	background-position: 0 -269px;
+}
+#foot .footTmT li .cj{
+	background-position: 0 -348px;
+}
+#foot .footTmT li p{
+	text-align: center;
+	margin-top: 10px;
+	font-size: 16px;
+	cursor: pointer;
+	color: #fff;
+	font-size: 16px;
+	font-weight: bold;
+	vertical-align: middle;
+}
+#foot .footTmB{
+	height: 165px;
+}
+#foot .footTmB img{
+	float: left;
+	
+}
+#foot .footTmB dl{
+	float: left;
+	padding: 20px 60px;
+	border-left:1px dotted #76b36d;
+}
+#foot .footTmB dt{
+	line-height: 35px;
+    font-size: 18px;
+    width: 80px;
+    color: #fff;
+}
+#foot .footTmB dd{
+	height: 22px;
+	line-height: 22px;
+	text-align: center;
+}
+#foot .footTmB dd a{
+	color: #fff;
+}
+#foot .footTmB dd a:hover{
+	text-decoration: underline;
+	color: greenyellow;
+}
+#foot .fBm{
+	overflow: hidden;
+}
+#foot .fBml{
+	float: left;
+	width: 418px;
+	padding: 20px 20px 0;
+}
+#foot .fBml .footertit{
+	border-bottom: 1px solid #eee;
+	text-align: center;
+}
+#foot .fBml .footertit b{
+	position: relative;
+    top: 9px;
+    display: inline-block;
+    padding: 0 10px;
+    
+    color: #333;
+}
+#foot .footer-pd{
+	padding-top:20px ;
+}
+#foot .fBml img{
+	float: left;
+	padding: 5px;
+}	
+#foot .footer-sjb{
+	float: left;
+	margin-top: 20px;
+	margin-left: 20px;
+	
+}
+#foot .footer-sjb img{
+	margin-top: 10px;
+	margin-left: 10px;
+}
+#foot .fbmr{
+	margin-left: 9px;
+}
+#foot .fofo{
+	width: 100%;
+	text-align: center;
+	margin: 14px 0 52px 0;
+	border-top: 1px solid #eee;
+}
+#foot .fofo a:hover{
+	color: skyblue;
+}

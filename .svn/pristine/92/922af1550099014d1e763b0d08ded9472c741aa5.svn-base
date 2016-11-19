@@ -1,0 +1,742 @@
+<div class="h_banner">
+	<div class="bannerbox">
+
+		<div class="bannerf" bgc="#8d02de" style="display: block;">
+			<a class="banner1" href="javascript:;">
+				<img src="img/1.jpg" />
+			</a>
+		</div>
+		<div class="banner" bgc="#FF4D4B">
+			<a class="banner2" href="javascript:;">
+				<img src="img/2.jpg" />
+			</a>
+		</div>
+		<div class="banner" bgc="#8d02de">
+			<a class="banner3" href="javascript:;">
+				<img src="img/3.jpg" />
+			</a>
+		</div>
+		<div class="banner" bgc="#8d02de">
+			<a class="banner4" href="javascript:;">
+				<img src="img/4.jpg" />
+			</a>
+		</div>
+		<div class="banner" bgc="#8d02de">
+			<a class="banner5" href="javascript:;">
+				<img src="img/5.jpg" />
+			</a>
+		</div>
+		<div class="banner" bgc="#8d02de">
+			<a class="banner6" href="javascript:;">
+				<img src="img/6.jpg" />
+			</a>
+		</div>
+		<div class="banner" bgc="#8d02de">
+			<a class="banner7" href="javascript:;">
+				<img src="img/7.jpg" />
+			</a>
+		</div>
+		<ul>
+			<li>1</li>
+			<li>2</li>
+			<li>3</li>
+			<li>4</li>
+			<li>5</li>
+			<li>6</li>
+			<li>7</li>
+		</ul>
+	</div>
+	<div class="banner-rightbox">
+		<!--<div class="Center">-->
+		<div class="banner-right">
+			<div class="br">
+				<a href="javascropt:;"><img src='img/tianhengbao.jpg' /></a>
+			</div>
+			<div class="br">
+				<a href="javascropt:;"><img src='img/biruiji.jpg' /></a>
+			</div>
+			<div>
+				<a href="javascropt:;"><img src='img/wanpilingshi.jpg' /></a>
+			</div>
+		</div>
+		<!--</div>-->
+	</div>
+</div>
+<div class="Center">
+	<div class="jingxi">
+		<div class="jingxi-left">
+			<div class="jingxi-box">
+				<div class="left-top">
+					<img src="img/surprise-tit.png" />
+				</div>
+				<div class="left-middle">
+					距本场结束还有
+				</div>
+				<div class="timelast">
+					<div class="time1">
+						<span id="times0">
+								<span class="time1-1">
+									<i>0</i><i>0</i>
+								</span>
+						<span class="time-zi" style="color: #fff;">:</span>
+						<span class="time1-1">
+									<i>5</i><i>4</i>
+								</span>
+						<span class="time-zi" style="color: #fff;">:</span>
+						<span class="time1-1">
+									<i>5</i><i>8</i>
+								</span>
+						</span>
+						<span id="t0" style="display: none;" name="1">2016-11-07 19:00:00</span>
+					</div>
+				</div>
+				<div class="thistime">
+					15:00
+					<span class="chang"></span>
+				</div>
+				<div class="left-bot">
+					进行中...
+				</div>
+			</div>
+
+		</div>
+		<div class="jingxi-right">
+			<div class="jxr-top">
+				<div class="watch">
+					<p>09:00</p>
+					<p>已结束</p>
+					<span></span>
+				</div>
+				<div class="watch">
+					<p>11:00</p>
+					<p>已结束</p>
+					<span></span>
+				</div>
+				<div class="watch">
+					<p>13:00</p>
+					<p>已结束</p>
+					<span></span>
+				</div>
+				<div class="watch">
+					<p>15:00</p>
+					<p>已结束</p>
+					<span></span>
+				</div>
+				<div class="watch">
+					<p>19:00</p>
+					<p>已结束</p>
+					<span></span>
+				</div>
+				<div class="watch">
+					<p>21:00</p>
+					<p>已结束</p>
+					<span></span>
+				</div>
+				<div class="watch">
+					<p>明日</p>
+					<p>预告</p>
+					<span></span>
+				</div>
+			</div>
+			<div class="jxr-bottom">
+				<div class="ov">
+					<!--<div class="pros09:00"></div>
+					<div class="pros11:00"></div>
+					<div class="pros13:00"></div>
+					<div class="pros15:00"></div>
+					<div class="pros19:00"></div>
+					<div class="pros21:00"></div>
+					<div class="prostomorrow"></div>-->
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="xpcx">
+		<div class="xpcx_left">
+			<img src="img/ad-img1.jpg">
+			<div class="absolute-bg" style="background:#ed499b;filter: alpha(opacity=80); opacity: 0.8;-moz-opacity: 0.8;"></div>
+			<div class="absolute-box">
+				<div class="box-xp">新品尝鲜</div>
+				<div class="ftc ft12 cfff">
+					<a  href="http://www.epet.com/new" style="color: white"> 上架新品976件&gt;&gt;</a>
+				</div>
+				<div class="ftc mt5"><img src="img/fgline.png"></div>
+				<div class="ftc cfff mt5">毛****比 第329个尝鲜的人，获得商品折扣 </div>
+				<div class="ftc cfff"><span class="ft20">9.1</span>折</div>
+				<div class="ftc">
+					<a  href="http://www.epet.com/new">进入尝鲜栏目&gt;&gt;</a>
+				</div>
+			</div>
+		</div>
+		<div class="xpcx_right">
+			<ul class="clearfix">
+				<a title="K9 顶级大厨 天然烤鹿肺狗零食200g"  href="http://www.epet.com/new">
+					<li class="fl">
+						<div class="font-intro">
+							<h1 class="ft14 c333">K9 顶级大厨 天然烤鹿肺狗零食200g</h1>
+							<p title="天然烘烤，香醇口感，优质蛋白，吃出健康。" class="c999 ft12">天然烘烤，香醇口感，优质蛋白，吃出健康。</p>
+							<div style="color: #f60;" class="mt ft14 ">¥25.00</div>
+							<div class="reason mt20 overflow">
+								<p class="mt5">低脂肪无添加</p>
+								<p class="mt5">天然肉质香醇可口</p>
+							</div>
+						</div>
+						<div class="new-proimg rela">
+							<div class="new-img"><img src="img/dizhi.jpg"></div>
+						</div>
+					</li>
+				</a>
+				<a title="法国进口FoOlee Easee系列 中型犬自动脱毛梳子 紫色 梳面宽65mm"  href="http://www.epet.com/new">
+					<li class="fl">
+						<div class="font-intro">
+							<h1 class="ft14 c333">法国进口FoOlee Easee系列 中型犬自动脱毛梳子 紫色 梳面宽65mm</h1>
+							<p title="是时候换梳毛姿势啦！法国FoOlee自动脱毛梳，轻松去除脱毛、掉毛，从未有过的梳理体验。用一次，让你远离“毛”困扰。" class="c999 ft12">是时候换梳毛姿势啦！法国FoOlee自动脱毛梳，轻松去除脱毛、掉毛，从未有过的梳理体验。用一次，让你远离“毛”困扰。
+							</p>
+							<div style="color: #f60;" class="mt ft14">¥183.00</div>
+							<div class="reason mt20 overflow">
+								<p class="mt5">自动梳理新体验</p>
+								<p class="mt5">轻松去死毛掉毛</p>
+							</div>
+						</div>
+						<div class="new-proimg rela">
+							<div class="new-img"><img src="img/dizhi.jpg"></div>
+						</div>
+					</li>
+				</a>
+				<a title="乐宝LeBo 肠乐康益生菌 12袋/盒"  href="http://www.epet.com/new">
+					<li class="fl">
+						<div class="font-intro">
+							<h1 class="ft14 c333">乐宝LeBo 肠乐康益生菌 12袋/盒</h1>
+							<p title="" class="ft12"></p>
+							<div style="color: #f60;" class="mt ft14 cred">¥80.00</div>
+							<div class="reason mt20 overflow">
+								<p class="mt5">快速改善肠道不适</p>
+								<p class="mt5">提升活力激活免疫</p>
+							</div>
+						</div>
+						<div class="new-proimg rela">
+							<div class="new-img"><img src="img/dizhi.jpg"></div>
+						</div>
+					</li>
+				</a>
+			</ul>
+		</div>
+	</div>
+	<!--品牌街开始-->
+	<div class="ppj">
+		<div class="ppj-left">
+			<a  href="javascript:;">
+				<img src="img/ad-img2.jpg">
+			</a>
+			<div class="brands">
+				<!--轮播开始-->
+				<div class="ppj-lb">
+					<ul class="ppj-lb-t">
+						<li class="lb-active"><img src="img/ppjlb1.jpg" /></li>
+						<li><img src="img/ppjlb2.jpg" /></li>
+						<li><img src="img/ppjlb3.jpg" /></li>
+						<li><img src="img/ppjlb4.jpg" /></li>
+					</ul>
+					<ul class="ppj-lb-b">
+						<li></li>
+						<li></li>
+						<li></li>
+						<li></li>
+					</ul>
+				</div>
+				<!--轮播结束-->
+			</div>
+		</div>
+		<!--品牌街中部开始-->
+		<div class="ppj-mid">
+			<ul class="clearfix">
+				<li>
+					<a  href="javascript:;"><img src="img/brand_log.jpg" /></a>
+					<p class="cfff" style="display: none; line-height: 30px;"><span class="cred">5</span>个试用商品 </p>
+				</li>
+				<li>
+					<a  href="javascript:;"><img src="img/brand_log1.jpg" /></a>
+				</li>
+				<li>
+					<a  href="javascript:;"><img src="img/brand_log2.jpg" /></a>
+					<p class="cfff" style="display: none; line-height: 30px;"><span class="cred">4</span>个试用商品 <span class="cred">3</span>个优惠</p>
+				</li>
+				<li>
+					<a  href="javascript:;"><img src="img/brand_log3.jpg" /></a>
+					<p class="cfff" style="display: none; line-height: 30px;"><span class="cred">2</span>个试用商品 <span class="cred">3</span>个优惠</p>
+				</li>
+				<li>
+					<a  href="javascript:;"><img src="img/brand_log4.jpg" /></a>
+				</li>
+				<li>
+					<a  href="javascript:;"><img src="img/brand_log5.jpg" /></a>
+					<p class="cfff" style="display: none; line-height: 30px;"><span class="cred">3</span>个试用商品 </p>
+				</li>
+				<li>
+					<a  href="javascript:;"><img src="img/brand_log6.jpg" /></a>
+					<p class="cfff" style="display: none; line-height: 30px;"><span class="cred">2</span>个试用商品 </p>
+				</li>
+				<li>
+					<a  href="javascript:;"><img src="img/brand_log7.jpg" /></a>
+					<p class="cfff" style="display: none; line-height: 30px;"><span class="cred">3</span>个试用商品 <span class="cred">3</span>个优惠</p>
+				</li>
+				<li>
+					<a  href="javascript:;"><img src="img/brand_log8.jpg" /></a>
+					<p class="cfff" style="display: none; line-height: 30px;"><span class="cred">3</span>个试用商品 </p>
+				</li>
+				<li>
+					<a  href="javascript:;"><img src="img/brand_log9.jpg" /></a>
+					<p class="cfff" style="display: none; line-height: 30px;"><span class="cred">2</span>个试用商品 </p>
+				</li>
+				<li>
+					<a  href="javascript:;"><img src="img/brand_log10.png" /></a>
+				</li>
+				<li>
+					<a  href="javascript:;"><img src="img/brand_log11.jpg" /></a>
+					<p class="cfff" style="display: none; line-height: 30px;"><span class="cred">2</span>个试用商品 </p>
+				</li>
+			</ul>
+		</div>
+		<!--品牌街中部结束-->
+		<!--品牌街右部开始-->
+		<div class="ppj-right">
+			<div class="ppj-right-top">
+				<i></i>
+				<h1>免费试用</h1>
+			</div>
+			<div class="ppj-right-bot">
+				<div class="bot-top">
+					<a  href="javascript:;">
+						<div class="textR">还有<span style="color: #F60;;">121</span>个免费试用&gt;&gt;</div>
+					</a>
+					<div class="free-proimg">
+						<img src="img/forimg.jpg">
+					</div>
+					<div class="c999 ft30 ftc" style="height:40px;">
+						<div style="display: inline-block;">
+							<span class="through ft30 fl">¥269.00</span>
+							<i class="cfff fl ml mt">免费</i>
+						</div>
+					</div>
+					<h2>佰芙 小型成犬三文鱼无谷粮 3kg</h2>
+
+					<div class="mt20 ftc">
+						<a  href="javascript:;" class="i-apply"></a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--品牌街右部结束-->
+	</div>
+	<!--楼层开始-->
+	<!--一楼开始-->
+	<div class="epetfoodblock">
+		<div class="epetfood-tit"><i class="index-ico"></i>狗狗主粮</div>
+		<div class="floormain">
+			<div class="fl floorleft">
+				<a href="javascript:;" ><img alt="狂欢节-主粮" src="img/onefloor.jpg"></a>
+				<div class="floorleft-bot">
+					<div class="floorleft-bot-t">
+						<span class="fl">——————————————————</span>
+						<i class="fl"></i>
+						<b class="fl c666 ft14 mt5">最热HOT</b>
+						<span class="fl">——————————————————</span>
+					</div>
+					<ul class="floorleft-bot-b mt">
+						<li class="fl ftc">
+							<a href="javascript:;">半价满省</a>
+						</li>
+						<li class="fl ftc">
+							<a href="javascript:;">百年品牌</a>
+						</li>
+						<li class="fl ftc">
+							<a href="javascript:;">新西兰进口</a>
+						</li>
+						<li class="fl ftc">
+							<a href="javascript:;">新手必点</a>
+						</li>
+						<li class="fl ftc">
+							<a href="javascript:;">爆款赠品</a>
+						</li>
+						<li class="fl ftc">
+							<a href="javascript:;">海洋之星</a>
+						</li>
+						<li class="fl ftc">
+							<a href="javascript:;">买大送小</a>
+						</li>
+						<li class="fl ftc">
+							<a href="javascript:;">95%含肉量</a>
+						</li>
+						<li class="fl ftc">
+							<a href="javascript:;">赛级犬御用</a>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="floorright">
+				<div class="righttitle">
+					<ul class="ftc">
+						<li id="one1" class="fl">
+							<div class="border-t"><span>热门</span></div>
+						</li>
+						<li id="one2">
+							<div class="border-t"><span style="border-right-width: 0px;">进口狗粮</span></div>
+						</li>
+						<li id="one3">
+							<div class="border-t"><span style="border-right-width: 0px;">国产狗粮</span></div>
+						</li>
+						<li id="one4">
+							<div class="border-t"><span style="border-right-width: 0px;">散装狗粮</span></div>
+						</li>
+						<li id="one5">
+							<div class="border-t"><span style="border-right-width: 0px;">处方狗粮</span></div>
+						</li>
+					</ul>
+				</div>
+				<div class="rightconbox">
+					<div id="con_one_1">
+						<!--热门内容 BEGIN-->
+						<div class="imgbox">
+							<div class="imgbox-top">
+								<div class="top_left fl border-r">
+									<a  href="javascript:;">
+										<div class="ad-font">
+											<p class=" ft16">E宠学堂</p>
+											<p class=" ft14 cf40 mt5">如何挑选优质的狗粮？</p>
+										</div>
+										<img src="img/Echongxuetang.jpg"></a>
+								</div>
+								<div class="top_right">
+									<div class="border-r bigimg2 rela">
+										<a  href="javascript:;">
+											<div class="ad-font">
+												<p class=" ft16 c000">WDJ五星级无谷粮</p>
+												<p class=" ft14 cf40 mt5">15年致力无谷粮巅峰</p>
+											</div>
+											<img src="img/wdj.jpg">
+										</a>
+									</div>
+									<div class="border-r bigimg2 rela">
+										<a  href="javascript:;">
+											<div class="ad-font">
+												<p class=" ft16 c000">国产热销粮</p>
+												<p class=" ft14 cf40 mt5">买即赠爆款零食单品</p>
+											</div>
+											<img src="img/rexiaolaing.jpg"></a>
+									</div>
+								</div>
+							</div>
+							<div class="imgbox-bot">
+								<div class="bigimg3 fl border-r overflow rela">
+									<a  href="javascript:;">
+										<div class="ad-font">
+											<p class=" ft16 c000">肉食巅峰盛宴</p>
+											<p class=" ft14 cf40 mt5">95%肉类含量</p>
+										</div>
+										<img src="//img2.epetbar.com/2016-10/29/10/b498b1203309ca126765da639ff9ab5d.jpg@!water"></a>
+								</div>
+								<div class="bigimg3 fl border-r overflow rela">
+									<a  href="javascript:;">
+										<div class="ad-font">
+											<p class=" ft16 c000">冠军犬 佰芙粮</p>
+											<p class=" ft14 cf40 mt5">福佑园御用犬粮</p>
+										</div>
+										<img src="//img2.epetbar.com/2016-10/26/18/18d0f8e49c2a1aef50992c3f24c6a11c.jpg@!water"></a>
+								</div>
+								<div class="bigimg3 fl border-r overflow rela">
+									<a  href="javascript:;">
+										<div class="ad-font">
+											<p class=" ft16 c000">奥运宝大促</p>
+											<p class=" ft14 cf40 mt5">满100送8，满200送12</p>
+										</div>
+										<img src="//img2.epetbar.com/2016-10/26/18/b7bff6ec2e2af6b725ffa1cabe3422ce.jpg@!water"></a>
+								</div>
+							</div>
+						</div>
+						<!--热门内容 END-->
+					</div>
+					<div id="con_one_2" style="display: none;">
+						<div class="eight-listpro">
+							<ul class="clearfix" >
+								<li class="fl">
+									<a  href="javascript:;">
+										<div class="eight"><img src="img/kabi.jpg"></div>
+										<h1 class="ft12 c666 overflow">美国卡比 全犬期原味配方狗粮 44磅(19.9kg) </h1>
+										<div class="ft16 dprice mt5">￥618.00</div>
+									</a>
+								</li>
+								<li class="fl">
+									<a  href="javascript:;">
+										<div class="eight"><img src="img/annamate.jpg" class="zom"></div>
+										<h1 class="ft12 c666 overflow">安娜玛特Annamaet 草原大地无谷全犬粮 5磅(2.3kg)</h1>
+										<div class="ft16 dprice mt5">￥220.00</div>
+									</a>
+								</li>
+								<li class="fl">
+									<a  href="javascript:;">
+										<div class="eight"><img src="img/kabi.jpg" class="zom"></div>
+										<h1 class="ft12 c666 overflow">海洋之星 深海鱼成犬粮 小颗粒 6kg</h1>
+										<div class="ft16 dprice mt5">￥375.00</div>
+									</a>
+								</li>
+								<li class="fl">
+									<a  href="javascript:;">
+										<div class="eight"><img src="img/annamate.jpg" class="zom"></div>
+										<h1 class="ft12 c666 overflow">美国原装进口 百利本能Instinct 原野生肉无谷物鸭肉火鸡配方小型全犬粮 4.1磅(1.8kg)</h1>
+										<div class="ft16 dprice mt5">￥200.00</div>
+									</a>
+								</li>
+								<li class="fl">
+									<a  href="javascript:;">
+										<div class="eight"><img src="img/kabi.jpg" class="zom"></div>
+										<h1 class="ft12 c666 overflow">巴西原装进口 淘淘力派均衡系列小型犬老犬粮 2kg</h1>
+										<div class="ft16 dprice mt5">￥165.00</div>
+									</a>
+								</li>
+								<li class="fl">
+									<a  href="javascript:;">
+										<div class="eight"><img src="img/annamate.jpg" class="zom"></div>
+										<h1 class="ft12 c666 overflow">新西兰原装进口 巅峰ZiwiPeak 鹿肉配方全犬粮 1kg</h1>
+										<div class="ft16 dprice mt5">￥336.00</div>
+									</a>
+								</li>
+								<li class="fl">
+									<a  href="javascript:;">
+										<div class="eight"><img src="img/kabi.jpg" class="zom"></div>
+										<h1 class="ft12 c666 overflow">黑鹰Black Hawk 成犬鸡肉无谷配方粮 3kg</h1>
+										<div class="ft16 dprice mt5">￥309.00</div>
+									</a>
+								</li>
+								<li class="fl">
+									<a  href="javascript:;">
+										<div class="eight"><img src="img/annamate.jpg" class="zom"></div>
+										<h1 class="ft12 c666 overflow">海洋之星 三文鱼成犬粮 小颗粒 1.5kg</h1>
+										<div class="ft16 dprice mt5">￥130.00</div>
+									</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div id="con_one_3"  style="display: none;">
+						<div class="eight-listpro">
+							<ul class="clearfix" >
+								<li class="fl">
+									<a  href="javascript:;">
+										<div class="eight"><img src="img/bbiruiji.jpg" class="zom"></div>
+										<h1 class="ft12 c666 overflow">比瑞吉 健康型天然粮 小型犬成犬粮 1.5kg</h1>
+										<div class="ft16 cred dprice mt5">￥73.00</div>
+									</a>
+								</li>
+								<li class="fl">
+									<a  href="javascript:;">
+										<div class="eight"><img src="img/youka.jpg" class="zom"></div>
+										<h1 class="ft12 c666 overflow">优卡EuKanuba 大型犬成犬粮  20kg</h1>
+										<div class="ft16 cred dprice mt5">￥800.00</div>
+									</a>
+								</li>
+								<li class="fl">
+									<a  href="javascript:;">
+										<div class="eight"><img src="img/bbiruiji.jpg" class="zom"></div>
+										<h1 class="ft12 c666 overflow">纯皓Nutrifresh 天然无谷系列小型犬幼犬粮 2.7kg</h1>
+										<div class="ft16 cred dprice mt5">￥195.00</div>
+									</a>
+								</li>
+								<li class="fl">
+									<a  href="javascript:;">
+										<div class="eight"><img src="img/youka.jpg" class="zom"></div>
+										<h1 class="ft12 c666 overflow">冠能 大型犬幼犬全价犬粮 12kg</h1>
+										<div class="ft16 cred dprice mt5">￥590.00</div>
+									</a>
+								</li>
+								<li class="fl">
+									<a  href="javascript:;">
+										<div class="eight"><img src="img/bbiruiji.jpg" class="zom"></div>
+										<h1 class="ft12 c666 overflow">宝路 中小型犬成犬牛肉配方粮 1.8kg</h1>
+										<div class="ft16 cred dprice mt5">￥44.50</div>
+									</a>
+								</li>
+								<li class="fl">
+									<a  href="javascript:;">
+										<div class="eight"><img src="img/youka.jpg" class="zom"></div>
+										<h1 class="ft12 c666 overflow">蓝氏LegendSandy 天然牛肉金枪鱼全犬粮 9磅(4.08kg) </h1>
+										<div class="ft16 cred dprice mt5">￥129.00</div>
+									</a>
+								</li>
+								<li class="fl">
+									<a  href="javascript:;">
+										<div class="eight"><img src="img/bbiruiji.jpg" class="zom"></div>
+										<h1 class="ft12 c666 overflow">雷米高 澳宝 牛肉肝蔬菜营养成犬粮 5kg</h1>
+										<div class="ft16 cred dprice mt5">￥90.00</div>
+									</a>
+								</li>
+								<li class="fl">
+									<a  href="javascript:;">
+										<div class="eight"><img src="img/youka.jpg" class="zom"></div>
+										<h1 class="ft12 c666 overflow">顽皮Wanpy 益智配方 贵宾犬 幼犬粮 1.5kg</h1>
+										<div class="ft16 cred dprice mt5">￥85.00</div>
+									</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div id="con_one_4"  style="display: none;">
+						<div class="eight-listpro">
+							<ul class="clearfix" >
+								<li class="fl">
+									<a  href="javascript:;">
+										<div class="eight"><img src="img/bbiruiji.jpg" class="zom"></div>
+										<h1 class="ft12 c666 overflow">海洋之星 三文鱼成犬粮 大颗粒拆零 500g</h1>
+										<div class="ft16 cred dprice mt5">￥32.00</div>
+									</a>
+								</li>
+								<li class="fl">
+									<a  href="javascript:;">
+										<div class="eight"><img src="img/bbiruiji.jpg" class="zom"></div>
+										<h1 class="ft12 c666 overflow">WDJ推荐 五星级 素力高Solid Gold 中大型幼犬粮 拆零500g 有助肌肉和关节生长</h1>
+										<div class="ft16 cred dprice mt5">￥23.48</div>
+									</a>
+								</li>
+								<li class="fl">
+									<a  href="javascript:;">
+										<div class="eight"><img src="img/bbiruiji.jpg" class="zom"></div>
+										<h1 class="ft12 c666 overflow">比瑞吉 健康型天然粮 小型犬成犬粮 拆包分零500g</h1>
+										<div class="ft16 cred dprice mt5">￥18.00</div>
+									</a>
+								</li>
+								<li class="fl">
+									<a  href="javascript:;">
+										<div class="eight"><img src="img/bbiruiji.jpg" class="zom"></div>
+										<h1 class="ft12 c666 overflow">皇家royal canin 金毛幼犬粮 拆零500g</h1>
+										<div class="ft16 cred dprice mt5">￥22.50</div>
+									</a>
+								</li>
+								<li class="fl">
+									<a  href="javascript:;">
+										<div class="eight"><img src="img/bbiruiji.jpg" class="zom"></div>
+										<h1 class="ft12 c666 overflow">麦富迪乖宝乐 牛肉+螺旋藻+蛋奶 成犬粮 拆零500g</h1>
+										<div class="ft16 cred dprice mt5">￥7.00</div>
+									</a>
+								</li>
+								<li class="fl">
+									<a  href="javascript:;">
+										<div class="eight"><img src="img/bbiruiji.jpg" class="zom"></div>
+										<h1 class="ft12 c666 overflow">雷米高 澳宝 鸡肉中草药蔬菜营养成犬粮 拆零500g </h1>
+										<div class="ft16 cred dprice mt5">￥6.50</div>
+									</a>
+								</li>
+								<li class="fl">
+									<a  href="javascript:;">
+										<div class="eight"><img src="img/bbiruiji.jpg" class="zom"></div>
+										<h1 class="ft12 c666 overflow">海洋之星 深海鱼幼犬粮 大颗粒拆零 500g</h1>
+										<div class="ft16 cred dprice mt5">￥32.00</div>
+									</a>
+								</li>
+								<li class="fl">
+									<a  href="javascript:;">
+										<div class="eight"><img src="img/bbiruiji.jpg" class="zom"></div>
+										<h1 class="ft12 c666 overflow"> 欧帝亿 美毛健体 中型犬成犬粮 拆零500g</h1>
+										<div class="ft16 cred dprice mt5">￥27.00</div>
+									</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+					<div id="con_one_5" style="display: none;">
+						<div class="eight-listpro">
+							<ul class="clearfix" >
+								<li class="fl">
+									<a  href="javascript:;">
+										<div class="eight"><img src="img/bbiruiji.jpg" class="zom"></div>
+										<h1 class="ft12 c666 overflow">克劳德医生犬用肠道处方罐头 200g</h1>
+										<div class="ft16 cred dprice mt5">￥25.00</div>
+									</a>
+								</li>
+								<li class="fl">
+									<a  href="javascript:;">
+										<div class="eight"><img src="img/bbiruiji.jpg" class="zom"></div>
+										<h1 class="ft12 c666 overflow">希尔斯/希尔思Hill's 处方狗粮系列 a/d重点护理配方狗罐头 156g</h1>
+										<div class="ft16 cred dprice mt5">￥26.00</div>
+									</a>
+								</li>
+								<li class="fl">
+									<a  href="javascript:;">
+										<div class="eight"><img src="img/bbiruiji.jpg" class="zom"></div>
+										<h1 class="ft12 c666 overflow">希尔斯/希尔思Hill's 处方狗粮系列 i/d肠胃保健配方全犬罐头 370g</h1>
+										<div class="ft16 cred dprice mt5">￥44.00</div>
+									</a>
+								</li>
+								<li class="fl">
+									<a  href="javascript:;">
+										<div class="eight"><img src="img/bbiruiji.jpg" class="zom"></div>
+										<h1 class="ft12 c666 overflow">朗跃 犬用胃肠疾患膳食铝罐头100g</h1>
+										<div class="ft16 cred dprice mt5">￥6.50</div>
+									</a>
+								</li>
+								<li class="fl">
+									<a  href="javascript:;">
+										<div class="eight"><img src="img/bbiruiji.jpg" class="zom"></div>
+										<h1 class="ft12 c666 overflow">克劳德医生 犬用肝脏处方罐头 200g</h1>
+										<div class="ft16 cred dprice mt5">￥25.00</div>
+									</a>
+								</li>
+								<li class="fl">
+									<a  href="javascript:;">
+										<div class="eight"><img src="img/bbiruiji.jpg" class="zom"></div>
+										<h1 class="ft12 c666 overflow">克劳德医生 犬用肝脏处方粮 1kg</h1>
+										<div class="ft16 cred dprice mt5">￥104.00</div>
+									</a>
+								</li>
+								<li class="fl">
+									<a  href="javascript:;">
+										<div class="eight"><img src="img/bbiruiji.jpg" class="zom"></div>
+										<h1 class="ft12 c666 overflow">希尔斯/希尔思Hill's 处方狗粮系列 z/d 低过敏原配方成犬罐头 156g</h1>
+										<div class="ft16 cred dprice mt5">￥28.00</div>
+									</a>
+								</li>
+								<li class="fl">
+									<a  href="javascript:;">
+										<div class="eight"><img src="img/bbiruiji.jpg" class="zom"></div>
+										<h1 class="ft12 c666 overflow">宠儿香 家庭专用系列 美健膳食罐头 90g </h1>
+										<div class="ft16 cred dprice mt5">￥16.00</div>
+									</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div style="clear: both;"></div>
+		</div>
+		<!--品牌块 BEGIN-->
+		<ul class="brands-ul">
+			<li class="fl">
+				<a  href="javascript:;"><img src="img/chunhao.jpg"></a>
+			</li>
+			<li class="fl">
+				<a  href="javascript:;"><img src="img/black.jpg"></a>
+			</li>
+			<li class="fl">
+				<a  href="javascript:;"><img src="img/live.jpg"></a>
+			</li>
+			<li class="fl">
+				<a  href="javascript:;"><img src="img/hitek.jpg"></a>
+			</li>
+			<li class="fl">
+				<a  href="javascript:;"><img src="img/blue.jpg"></a>
+			</li>
+			<li class="fl">
+				<a  href="javascript:;"><img src="img/ziwipeak.jpg"></a>
+			</li>
+			<li class="fl">
+				<a  href="javascript:;"><img src="img/bbbruiji.jpg"></a>
+			</li>
+			<li class="fl">
+				<a  href="javascript:;"><img src="img/fromm.jpg"></a>
+			</li>
+			<div style="clear: both;"></div>
+		</ul>
+		<!--品牌块 END-->
+	</div>
+	<!--一楼结束-->
+	<!--楼层结束-->
+</div>

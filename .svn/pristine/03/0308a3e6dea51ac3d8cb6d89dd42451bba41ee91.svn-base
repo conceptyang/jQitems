@@ -1,0 +1,242 @@
+<div class="h_banner">
+	<div class="bannerbox">
+			
+				<div class="bannerf" bgc="#8d02de" style="display: block;">
+					<a class="banner1" href="javascript:;">
+						<img src="img/1.jpg"/>
+					</a>
+				</div>
+				<div class="banner" bgc="#FF4D4B">
+					<a class="banner2" href="javascript:;">
+						<img src="img/2.jpg"/>
+					</a>
+				</div>
+				<div class="banner" bgc="#8d02de">
+					<a class="banner3" href="javascript:;">
+						<img src="img/3.jpg"/>
+					</a>
+				</div>
+				<div class="banner" bgc="#8d02de">
+					<a class="banner4" href="javascript:;">
+						<img src="img/4.jpg"/>
+					</a>
+				</div>
+				<div class="banner" bgc="#8d02de">
+					<a class="banner5" href="javascript:;">
+						<img src="img/5.jpg"/>
+					</a>
+				</div>
+				<div class="banner" bgc="#8d02de">
+					<a class="banner6" href="javascript:;">
+						<img src="img/6.jpg"/>
+					</a>
+				</div>
+				<div class="banner" bgc="#8d02de">
+					<a class="banner7" href="javascript:;">
+						<img src="img/7.jpg"/>
+					</a>
+				</div>
+				<ul>
+					<li>1</li>
+					<li>2</li>
+					<li>3</li>
+					<li>4</li>
+					<li>5</li>
+					<li>6</li>
+					<li>7</li>
+				</ul>
+	</div>
+	<div class="banner-rightbox">
+		<div class="Center">
+			<div class="banner-right">
+				<div class="br">
+					<a href="javascropt:;"><img src='img/tianhengbao.jpg'/></a>
+				</div>
+				<div class="br">
+					<a href="javascropt:;"><img src='img/biruiji.jpg'/></a>
+				</div>
+				<div>
+					<a href="javascropt:;"><img src='img/wanpilingshi.jpg'/></a>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+	<div class="Center">
+		<div class="jingxi">
+			<div class="jingxi-left">
+				<div class="jingxi-box">
+					<div class="left-top">
+						<img src="img/surprise-tit.png" />
+					</div>
+					<div class="left-middle">
+						距本场结束还有
+					</div>
+					<div class="timelast">
+						<div class="time1">
+							<span id="times0">
+								<span class="time1-1">
+									<i>0</i><i>0</i>
+								</span>
+								<span class="time-zi" style="color: #fff;">:</span>
+								<span class="time1-1">
+									<i>5</i><i>4</i>
+								</span>
+								<span class="time-zi" style="color: #fff;">:</span>
+								<span class="time1-1">
+									<i>5</i><i>8</i>
+								</span>
+							</span>
+							<span id="t0" style="display: none;" name="1">2016-11-07 19:00:00</span>
+						</div>
+					</div>
+					<div class="thistime">
+						15:00
+						<span class="chang"></span>
+					</div>
+					<div class="left-bot">
+						进行中...
+					</div>
+				</div>
+				
+			</div>
+			<div class="jingxi-right">
+				<div class="jxr-top">
+					<div class="watch">
+						<p>09:00</p>
+						<p>已结束</p>
+						<span></span>
+					</div>
+					<div class="watch">
+						<p>11:00</p>
+						<p>已结束</p>
+						<span></span>
+					</div>
+					<div class="watch">
+						<p>13:00</p>
+						<p>已结束</p>
+						<span></span>
+					</div>
+					<div class="watch">
+						<p>15:00</p>
+						<p>已结束</p>
+						<span></span>
+					</div>
+					<div class="watch">
+						<p>19:00</p>
+						<p>已结束</p>
+						<span></span>
+					</div>
+					<div class="watch">
+						<p>21:00</p>
+						<p>已结束</p>
+						<span></span>
+					</div>
+					<div class="watch">
+						<p>明日</p>
+						<p>预告</p>
+						<span></span>
+					</div>
+				</div>
+				<div class="jxr-bottom">
+					<div class="qG1">
+						<div class="qg-top">
+							<div class="qgpic">
+								<img src="img/qianggou.jpg"/>
+							</div>
+							<p class="qgbq">
+								<span>洁齿除臭</span>
+								<span>呵护口腔</span>
+							</p>
+							<div class="qgms">
+								昵趣NaTruse 牛油果配方 狗狗…
+							</div>
+							<div class="qgjg">
+								<b>￥</b><span class="nowjg">1.90</span>
+								<span class="overjg">
+									￥4.80
+								</span>
+							</div>
+							<div class="jgborder"></div>
+						</div>
+						<div class="qg-bot">
+							<a href="javascript:;" class="qgstate">立即抢购</a>
+						</div>
+					</div>
+					<div class="qG1">
+						<div class="qg-top">
+							<div class="qgpic">
+								<img src="img/qianggou.jpg"/>
+							</div>
+							<p class="qgbq">
+								<span>洁齿除臭</span>
+								<span>呵护口腔</span>
+							</p>
+							<div class="qgms">
+								昵趣NaTruse 牛油果配方 狗狗…
+							</div>
+							<div class="qgjg">
+								<b>￥</b><span class="nowjg">1.90</span>
+								<span class="overjg">
+									￥4.80
+								</span>
+							</div>
+							<div class="jgborder"></div>
+						</div>
+						<div class="qg-bot">
+							<a href="javascript:;" class="qgstate">立即抢购</a>
+						</div>
+					</div>
+					<div class="qG1">
+						<div class="qg-top">
+							<div class="qgpic">
+								<img src="img/qianggou.jpg"/>
+							</div>
+							<p class="qgbq">
+								<span>洁齿除臭</span>
+								<span>呵护口腔</span>
+							</p>
+							<div class="qgms">
+								昵趣NaTruse 牛油果配方 狗狗…
+							</div>
+							<div class="qgjg">
+								<b>￥</b><span class="nowjg">1.90</span>
+								<span class="overjg">
+									￥4.80
+								</span>
+							</div>
+							<div class="jgborder"></div>
+						</div>
+						<div class="qg-bot">
+							<a href="javascript:;" class="qgstate">立即抢购</a>
+						</div>
+					</div>
+					<div class="qG1">
+						<div class="qg-top">
+							<div class="qgpic">
+								<img src="img/qianggou.jpg"/>
+							</div>
+							<p class="qgbq">
+								<span>洁齿除臭</span>
+								<span>呵护口腔</span>
+							</p>
+							<div class="qgms">
+								昵趣NaTruse 牛油果配方 狗狗…
+							</div>
+							<div class="qgjg">
+								<b>￥</b><span class="nowjg">1.90</span>
+								<span class="overjg">
+									￥4.80
+								</span>
+							</div>
+							<div class="jgborder"></div>
+						</div>
+						<div class="qg-bot">
+							<a href="javascript:;" class="qgstate">立即抢购</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+

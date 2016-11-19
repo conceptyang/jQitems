@@ -1,0 +1,69 @@
+{
+	"01":{
+		"title":"狗狗主粮",
+		"leftimg":"img/onefloor.jpg",
+		"leftbq":["半价满省","百年品牌","新西兰进口","新手必点","爆款赠品","海洋之星","买大送小","95%含肉量","赛级犬御用"],
+		"righttitle":["热门","进口狗粮","国产狗粮","散装狗粮","处方狗粮"],
+		"eightimg1":{
+			"src":["img/kabi.jpg","img/annamate.jpg","img/kabi.jpg","img/annamate.jpg","img/kabi.jpg","img/annamate.jpg","img/kabi.jpg","img/annamate.jpg"],
+			"th1":["美国卡比 全犬期原味配方狗粮 44磅(19.9kg)","安娜玛特Annamaet 草原大地无谷全犬粮 5磅(2.3kg)","海洋之星 深海鱼成犬粮 小颗粒 6kg","美国原装进口 百利本能Instinct 原野生肉无谷物鸭肉火鸡配方小型全犬粮 4.1磅(1.8kg)","巴西原装进口 淘淘力派均衡系列小型犬老犬粮 2kg","新西兰原装进口 巅峰ZiwiPeak 鹿肉配方全犬粮 1kg","黑鹰Black Hawk 成犬鸡肉无谷配方粮 3kg","海洋之星 三文鱼成犬粮 小颗粒 1.5kg"],
+			"pri":["￥618.00","￥220.00","￥375.00","￥200.00","￥165.00","￥336.00","￥309.00","￥130.00"]
+		}
+	},
+	"02":{
+		"title":"狗狗零食",
+		"leftimg":"img/lingshi.jpg",
+		"leftbq":["肉质专场","白菜价","看得见的骨肉","满49省10","贴秋膘","买5送1","爆款钙奶棒"],
+		"righttitle":["热门","磨牙洁齿","肉质零食","奶酪布丁","罐头湿粮"],
+		"eightimg1":{
+			"src":["img/moya.jpg","img/moyabang.jpg","img/moya.jpg","img/moyabang.jpg","img/moya.jpg","img/moyabang.jpg","img/kabi.jpg","img/moya.jpg"],
+			"th1":["美国卡比 全犬期原味配方狗粮 44磅(19.9kg)","安娜玛特Annamaet 草原大地无谷全犬粮 5磅(2.3kg)","海洋之星 深海鱼成犬粮 小颗粒 6kg","美国原装进口 百利本能Instinct 原野生肉无谷物鸭肉火鸡配方小型全犬粮 4.1磅(1.8kg)","巴西原装进口 淘淘力派均衡系列小型犬老犬粮 2kg","新西兰原装进口 巅峰ZiwiPeak 鹿肉配方全犬粮 1kg","黑鹰Black Hawk 成犬鸡肉无谷配方粮 3kg","海洋之星 三文鱼成犬粮 小颗粒 1.5kg"],
+			"pri":["￥618.00","￥220.00","￥375.00","￥200.00","￥165.00","￥336.00","￥309.00","￥130.00"]
+		}
+	},
+	"03":{
+		"title":"狗狗保健&医疗",
+		"leftimg":"img/baojian.jpg",
+		"leftbq":["肉质专场","白菜价","看得见的骨肉","满49省10","贴秋膘","买5送1","爆款钙奶棒"],
+		"righttitle":["热门","磨牙洁齿","肉质零食","奶酪布丁","罐头湿粮"],
+		"eightimg1":{
+			"src":["img/moya.jpg","img/moyabang.jpg","img/moya.jpg","img/moyabang.jpg","img/moya.jpg","img/moyabang.jpg","img/kabi.jpg","img/moya.jpg"],
+			"th1":["美国卡比 全犬期原味配方狗粮 44磅(19.9kg)","安娜玛特Annamaet 草原大地无谷全犬粮 5磅(2.3kg)","海洋之星 深海鱼成犬粮 小颗粒 6kg","美国原装进口 百利本能Instinct 原野生肉无谷物鸭肉火鸡配方小型全犬粮 4.1磅(1.8kg)","巴西原装进口 淘淘力派均衡系列小型犬老犬粮 2kg","新西兰原装进口 巅峰ZiwiPeak 鹿肉配方全犬粮 1kg","黑鹰Black Hawk 成犬鸡肉无谷配方粮 3kg","海洋之星 三文鱼成犬粮 小颗粒 1.5kg"],
+			"pri":["￥618.00","￥220.00","￥375.00","￥200.00","￥165.00","￥336.00","￥309.00","￥130.00"]
+		}
+	},
+	"04":{
+		"title":"狗狗日用",
+		"leftimg":"img/riyong.jpg",
+		"leftbq":["肉质专场","白菜价","看得见的骨肉","满49省10","贴秋膘","买5送1","爆款钙奶棒"],
+		"righttitle":["热门","磨牙洁齿","肉质零食","奶酪布丁","罐头湿粮"],
+		"eightimg1":{
+			"src":["img/moya.jpg","img/moyabang.jpg","img/moya.jpg","img/moyabang.jpg","img/moya.jpg","img/moyabang.jpg","img/kabi.jpg","img/moya.jpg"],
+			"th1":["美国卡比 全犬期原味配方狗粮 44磅(19.9kg)","安娜玛特Annamaet 草原大地无谷全犬粮 5磅(2.3kg)","海洋之星 深海鱼成犬粮 小颗粒 6kg","美国原装进口 百利本能Instinct 原野生肉无谷物鸭肉火鸡配方小型全犬粮 4.1磅(1.8kg)","巴西原装进口 淘淘力派均衡系列小型犬老犬粮 2kg","新西兰原装进口 巅峰ZiwiPeak 鹿肉配方全犬粮 1kg","黑鹰Black Hawk 成犬鸡肉无谷配方粮 3kg","海洋之星 三文鱼成犬粮 小颗粒 1.5kg"],
+			"pri":["￥618.00","￥220.00","￥375.00","￥200.00","￥165.00","￥336.00","￥309.00","￥130.00"]
+		}
+	},
+	"05":{
+		"title":"狗狗美容&香波",
+		"leftimg":"img/meirong.jpg",
+		"leftbq":["肉质专场","白菜价","看得见的骨肉","满49省10","贴秋膘","买5送1","爆款钙奶棒"],
+		"righttitle":["热门","磨牙洁齿","肉质零食","奶酪布丁","罐头湿粮"],
+		"eightimg1":{
+			"src":["img/moya.jpg","img/moyabang.jpg","img/moya.jpg","img/moyabang.jpg","img/moya.jpg","img/moyabang.jpg","img/kabi.jpg","img/moya.jpg"],
+			"th1":["美国卡比 全犬期原味配方狗粮 44磅(19.9kg)","安娜玛特Annamaet 草原大地无谷全犬粮 5磅(2.3kg)","海洋之星 深海鱼成犬粮 小颗粒 6kg","美国原装进口 百利本能Instinct 原野生肉无谷物鸭肉火鸡配方小型全犬粮 4.1磅(1.8kg)","巴西原装进口 淘淘力派均衡系列小型犬老犬粮 2kg","新西兰原装进口 巅峰ZiwiPeak 鹿肉配方全犬粮 1kg","黑鹰Black Hawk 成犬鸡肉无谷配方粮 3kg","海洋之星 三文鱼成犬粮 小颗粒 1.5kg"],
+			"pri":["￥618.00","￥220.00","￥375.00","￥200.00","￥165.00","￥336.00","￥309.00","￥130.00"]
+		}
+	},
+	"06":{
+		"title":"狗狗牵引&服饰&玩具",
+		"leftimg":"img/qianyin.jpg",
+		"leftbq":["肉质专场","白菜价","看得见的骨肉","满49省10","贴秋膘","买5送1","爆款钙奶棒"],
+		"righttitle":["热门","磨牙洁齿","肉质零食","奶酪布丁","罐头湿粮"],
+		"eightimg1":{
+			"src":["img/moya.jpg","img/moyabang.jpg","img/moya.jpg","img/moyabang.jpg","img/moya.jpg","img/moyabang.jpg","img/kabi.jpg","img/moya.jpg"],
+			"th1":["美国卡比 全犬期原味配方狗粮 44磅(19.9kg)","安娜玛特Annamaet 草原大地无谷全犬粮 5磅(2.3kg)","海洋之星 深海鱼成犬粮 小颗粒 6kg","美国原装进口 百利本能Instinct 原野生肉无谷物鸭肉火鸡配方小型全犬粮 4.1磅(1.8kg)","巴西原装进口 淘淘力派均衡系列小型犬老犬粮 2kg","新西兰原装进口 巅峰ZiwiPeak 鹿肉配方全犬粮 1kg","黑鹰Black Hawk 成犬鸡肉无谷配方粮 3kg","海洋之星 三文鱼成犬粮 小颗粒 1.5kg"],
+			"pri":["￥618.00","￥220.00","￥375.00","￥200.00","￥165.00","￥336.00","￥309.00","￥130.00"]
+		}
+	}
+
+}

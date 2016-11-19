@@ -1,0 +1,56 @@
+<script type="text/html" id="onedata">
+	{{each lists as value i}}
+		<div class="center">
+		<div class="floortop clear">
+		<div class="name fl">
+			<p class="title" style="background: {{value.bg}}; border-bottom: {{value.border}};"><span class="F" style="background: {{value.bg1}};">{{value.num}}</span>{{value.title}}</p>
+			<div class="milk">
+				<div class="milk-top clear">
+					<ul class="fl" style="margin-left: 22px;">
+						{{each value.list1 as value i}}
+							<li>{{value}}</li>
+						{{/each}}
+					</ul>
+					<ul class="fl">
+						{{each value.list2 as value i}}
+							<li>{{value}}</li>
+						{{/each}}
+					</ul>
+				</div>
+				<div class="brand">
+					<div class="care">
+						{{each value.brand as value i}}
+								<img src="{{value}}" />
+						{{/each}}
+					</div>
+					<span class="left">&lt;</span>
+					<span class="right">&gt;</span>
+				</div>
+				
+			</div>
+		</div>
+		<div class="lBanner fl">
+				<a><img src="{{value.img2}}" style="height: 322px;"/></a>	
+				<a><img src="{{value.img12}}" style="height: 175px;"/></a>	
+		</div>
+		<div class="hipp fl">
+			<a>
+				<img src="img/50_007.jpg" style="height: 322px;" />
+			</a>
+			<a>
+				<img src="img/50_010.jpg" style="height: 175px;" />
+			</a>
+		</div>
+		<div class="img-list fl">
+			{{each value.img3 as value i}}
+				<a><img src="{{value}}" /></a>				
+			{{/each}}
+		</div>
+	</div>
+	<div class="bigImg">
+		<img src="{{value.img}}" />
+	</div>
+	</div>
+	{{/each}}
+</script>
+
